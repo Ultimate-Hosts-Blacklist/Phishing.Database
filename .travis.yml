@@ -1,0 +1,32 @@
+env:
+  global:
+    - secure: Ub+wMOV2Aj36eoIyUo18eqIWNV1HZuu6kbit6GCRykrHrKaaaozrNo99maRKMz4hXDGzi7Nv49PGyDiLiBNQ0pnAO5y6rRR3KLacGdzPHEfrqVgfRTVXCMzSe2s31JnkZ9JyCOdSe2j4j9sYqZqUsBAmVqqLSXnXZxYMqMOZ55GZwVLkG2FVPCPGSSQWGOtiX78hCUmZYjOTIoIjmUVWV5Q9xILss2eO4vA+sFBjKe5HumKzi+db0zhwjl1IvF27Mfhz2M2f04t/9Kwzv5vZGjf4JFIoEB40uYKxlCA2jyq4oBFSlLVRX3cqJ3EleqDspIka3JMY1v9I//okttC979WZnTLHK7BiVwyAax0aBfl4Vu8U2y/Ilxu8us4594pw2+coDGqzbz/f5gRkrJ5agnu9KH6dUWwVvoPogGQSuPEPTe3sn5bNfpoMKJoD5ZnBhahO+Vagc6IXqbV0QPqusSXnaJWQ5Bzz2AabHqXgWbAIf+lAYtRuCmI+lN4zqeXZpulss4sPQUzcgZ1URrprbaWLZ7Y2ThNuQ0k+Qyt/Xfi+MeSGdIYd+tfakQZgIa86eguayF7oYxE0e5ugoaYdz1EhyCD39BoVFs4D5YJY8M9G1fhyj9nnWQ/X4WkKhfpoTgxlTp67BGGJcHryWw9i7NMkv5U629yWZWEhosFVwy8=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Phishing.Database
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+before_install:
+  - sudo apt-get -y install python3-pip python3-yaml
+  - sudo apt-get -y install dos2unix
+  - pip3 install colorama
+
+script:
+  - python3 ./update.py
+
+notifications:
+  email: false
