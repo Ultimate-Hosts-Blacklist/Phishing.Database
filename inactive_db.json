@@ -1,10 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1524473437": [
+        "1524732448": [
+            "acxens.everycheckinsavesakitten.com",
+            "alibabaexpress-customerlogin.ml",
+            "appleosahdnhwcsteam01.com",
             "bams1.manhatan2018.com",
             "bams2.manhatan2018.com",
             "bb-t3services.ga",
-            "bb-t4services.ga",
+            "bb-t4services.ga"
+        ],
+        "to_test": [
             "idisfd.net",
             "instagramgt.com",
             "mobile.free.prioritedata.com",
@@ -17,8 +22,8 @@
             "taincone.com",
             "talafa6.tk",
             "www.office365.securepages.cc",
-            "www.taincone.com"
-        ],
-        "to_test": []
+            "www.taincone.com",
+            "accountupdates-verification.com"
+        ]
     }
 }
