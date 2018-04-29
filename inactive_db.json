@@ -1,9 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1524732448": [
+        "1524991872": [
             "acxens.everycheckinsavesakitten.com",
             "alibabaexpress-customerlogin.ml",
-            "appleosahdnhwcsteam01.com",
+            "appleosahdnhwcsteam01.com"
+        ],
+        "to_test": [
             "bams1.manhatan2018.com",
             "bams2.manhatan2018.com",
             "bb-t3services.ga",
@@ -54,9 +56,7 @@
             "www.shaiesonline.net",
             "www.sharpassociatesbd.com",
             "www.taincone.com",
-            "www.thezale.com"
-        ],
-        "to_test": [
+            "www.thezale.com",
             "accountupdates-verification.com"
         ]
     }
