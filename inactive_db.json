@@ -1,9 +1,10 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "to_test": [
-            "accountupdates-verification.com",
+        "1525251724": [
             "acxens.everycheckinsavesakitten.com",
-            "alibabaexpress-customerlogin.ml",
+            "alibabaexpress-customerlogin.ml"
+        ],
+        "to_test": [
             "appleosahdnhwcsteam01.com",
             "bams1.manhatan2018.com",
             "bams2.manhatan2018.com",
@@ -63,7 +64,8 @@
             "www.shaiesonline.net",
             "www.siwek.pl",
             "www.taincone.com",
-            "www.test.mnkniseko.com"
+            "www.test.mnkniseko.com",
+            "accountupdates-verification.com"
         ]
     }
 }
