@@ -1,9 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "to_test": [
-            "accountupdates-verification.com",
+        "1525597462": [
             "acxens.everycheckinsavesakitten.com",
-            "alibabaexpress-customerlogin.ml",
+            "alhosain.ir",
+            "alibabaexpress-customerlogin.ml"
+        ],
+        "to_test": [
             "appleosahdnhwcsteam01.com",
             "askog.no",
             "bams1.manhatan2018.com",
@@ -95,7 +97,8 @@
             "www.totalgravura.md",
             "www.underwood.tech",
             "xn--snapcht-u4a.com",
-            "yara-electronique.ml"
+            "yara-electronique.ml",
+            "accountupdates-verification.com"
         ]
     }
 }
