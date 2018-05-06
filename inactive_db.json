@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1525251724": [
+        "to_test": [
+            "accountupdates-verification.com",
             "acxens.everycheckinsavesakitten.com",
             "alibabaexpress-customerlogin.ml",
             "appleosahdnhwcsteam01.com",
@@ -95,9 +96,6 @@
             "www.underwood.tech",
             "xn--snapcht-u4a.com",
             "yara-electronique.ml"
-        ],
-        "to_test": [
-            "accountupdates-verification.com"
         ]
     }
 }
