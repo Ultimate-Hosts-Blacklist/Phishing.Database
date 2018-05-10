@@ -1,6 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1525597462": [
+        "0": [
+            "28mei.hol.es"
+        ],
+        "to_test": [
+            "nanaimo.schoolpartners.ca",
+            "accountupdates-verification.com",
             "acxens.everycheckinsavesakitten.com",
             "alhosain.ir",
             "alibabaexpress-customerlogin.ml",
@@ -112,10 +117,6 @@
             "www.underwood.tech",
             "xn--snapcht-u4a.com",
             "yara-electronique.ml"
-        ],
-        "to_test": [
-            "nanaimo.schoolpartners.ca",
-            "accountupdates-verification.com"
         ]
     }
 }
