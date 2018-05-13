@@ -1,6 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1525943329": [
+        "1526201667": [
+            "02abril.cd02834.tmweb.ru",
+            "1.2.3.48.localbizvids.com",
+            "1.2.3.9.localbizvids.com"
+        ],
+        "to_test": [
+            "accountupdates-verification.com",
             "acxens.everycheckinsavesakitten.com",
             "alhosain.ir",
             "alibabaexpress-customerlogin.ml",
@@ -138,11 +144,8 @@
             "www.tsb-accounts.com",
             "www.underwood.tech",
             "xn--snapcht-u4a.com",
-            "yara-electronique.ml"
-        ],
-        "to_test": [
-            "28mei.hol.es",
-            "accountupdates-verification.com"
+            "yara-electronique.ml",
+            "02-abril.cs07016.tmweb.ru"
         ]
     }
 }
