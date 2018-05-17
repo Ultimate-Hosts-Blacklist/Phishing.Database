@@ -1,6 +1,20 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1526460977": [
+        "1526581761": [
+            "www.tmixtape.ga",
+            "www.transformafrica2013.org",
+            "www.tsb-accounts.com",
+            "www.twoquid.co",
+            "www.underwood.tech",
+            "www.wells.elitelifecare.com"
+        ],
+        "to_test": [
+            "mercuriales.xyz",
+            "service.idapple.manage-your-app-account.com",
+            "smithy.ml",
+            "xn--snapcht-u4a.com",
+            "yara-electronique.ml",
+            "02-abril.cs07016.tmweb.ru",
             "02abril.cd02834.tmweb.ru",
             "13strong.gq",
             "13strong.tk",
@@ -293,19 +307,7 @@
             "www.standsexpress.com",
             "www.taincone.com",
             "www.test.mnkniseko.com",
-            "www.tmixtape.ga",
-            "www.transformafrica2013.org"
-        ],
-        "to_test": [
-            "mercuriales.xyz",
-            "service.idapple.manage-your-app-account.com",
-            "smithy.ml",
-            "www.tsb-accounts.com",
-            "www.tuospazioenlinea.com",
-            "www.underwood.tech",
-            "xn--snapcht-u4a.com",
-            "yara-electronique.ml",
-            "02-abril.cs07016.tmweb.ru"
+            "www.thirtyonefifty.com"
         ]
     }
 }
