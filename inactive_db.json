@@ -1,12 +1,18 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "1527065962": [
+        "1527411631": [
             "02abril.cd02834.tmweb.ru",
             "1.3.4.1.2.4.sydneypropertyinvestors.com",
             "13strong.gq",
             "13strong.tk",
             "13strongs.ml",
-            "2bit.guru",
+            "2bit.guru"
+        ],
+        "to_test": [
+            "fdbs.xflnitycenters.at",
+            "www.espace-impots-gouv-fr.com",
+            "www.japan-apples.com",
+            "www.logowanie-mbank.pl",
             "5a147c3872927b14d6420aa18014154b.sweetka.xyz",
             "a.bettiepageshoes.eu",
             "a.ellieshoes.eu",
@@ -536,13 +542,7 @@
             "xn--snapcht-u4a.com",
             "yara-electronique.ml",
             "yellowpage.online",
-            "zonasegura1-bn-com-pe-multired-zona-virtual.recyrub.com.mx"
-        ],
-        "to_test": [
-            "fdbs.xflnitycenters.at",
-            "www.espace-impots-gouv-fr.com",
-            "www.japan-apples.com",
-            "www.logowanie-mbank.pl",
+            "zonasegura1-bn-com-pe-multired-zona-virtual.recyrub.com.mx",
             "02-abril.cs07016.tmweb.ru"
         ]
     }
