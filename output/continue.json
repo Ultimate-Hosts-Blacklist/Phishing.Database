@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
-        "down": 5750,
+        "down": 20,
         "invalid": 0,
-        "tested": 54145,
-        "up": 48395
+        "tested": 554,
+        "up": 534
     }
 }
