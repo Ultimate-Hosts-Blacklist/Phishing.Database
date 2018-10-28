@@ -1,5 +1,305 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Phishing.Database/domains.list": {
+        "0-facebook.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "01022018.info": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "039574501.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "03numberguru.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "040134816381437token.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "051tempobet.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "052tempobet.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "053tempobet.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "054tempobet.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "07recipes.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "082mp3.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "0day.expert": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "0day.rocks": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "0myetherwallet.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "0rz.tw": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "0x.re": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "0yljs6.info": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "1000.domains": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "1000.tips": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "10000eth.net": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "10000ethereum.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "1000milla.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "1000rupaiya.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "1001coins.ru": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "1001golos.pro": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "101carica.com": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "101homeschool.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "101jewel.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "101km.ru": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "108pradee.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "10bestbingorooms.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "10bestpokerrooms.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "10keth.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "10kwithmiguel.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "10qinfoservices.com": {
+            "epoch": "1620604800",
+            "expiration_date": "10-may-2021",
+            "state": "future"
+        },
+        "11-11-17.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "110vk.ru": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "113branding.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "117.me": {
+            "epoch": "1595030400",
+            "expiration_date": "18-jul-2020",
+            "state": "future"
+        },
+        "12-2fotoestudio.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "123embed.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "123truckrepair.com": {
+            "epoch": "1542499200",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "123xsallowed.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "124search.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "12baskets.org": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "12betplay.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "12oclocktrades.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "12stepcds.com": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "12tedenskatransformacija.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "1303construction.com": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "13carat.gold": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "13spices.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "14uba.org": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "1537barberphobosmistletoe.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "15654.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "1688.se": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "1719melodramadeploy.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "17dollarblogs.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "17tec.net": {
+            "epoch": "1595376000",
+            "expiration_date": "22-jul-2020",
+            "state": "future"
+        },
+        "1800contactcustomerphonenumber.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
         "e-giftclientsrewards.com": {
             "epoch": "1567987200",
             "expiration_date": "09-sep-2019",
