@@ -51530,6 +51530,261 @@
             "expiration_date": "18-may-2019",
             "state": "future"
         },
+        "itau-aviso.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "itau2.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "itau2x1.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "itau30.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "itau30horasbankline.com": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "itauacesso2018.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "itaubanco.org": {
+            "epoch": "1541203200",
+            "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "itaubeneficios.cl": {
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
+        "itaubonu.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "itaubonus.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "itaubr.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "itaubrasilpontos.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "itaucardbonus.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "itaucardclube.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "itaucardmaspontos.com": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "itaucardmutiplica.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "itaucardmutiplicas.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "itaucardoferta.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "itaucardponto.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "itaucardpontos.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "itaucardpromo.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "itaucardsempre.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "itaucliente.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "itaucomvoce.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "itaudit.uk": {
+            "epoch": "1602979200",
+            "expiration_date": "18-oct-2020",
+            "state": "future"
+        },
+        "itauevoce.com": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "itaufpontos.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "itaulinesms.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "itaumaispontos.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "itaumaspontos.com": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "itaumpontos.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "itaunoticias.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "itaunovacategoria2018.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "itauopontos.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "itauperssonalite.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "itaupontos.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "itaupontosempre.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "itaupontosm.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "itaupromo.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "itaupromo.net": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "itaupromo.org": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "itausmiles.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "itauuniverso.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "itauypontos.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "itcontractorinsurance.com": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "itdpals.com": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "iteaunes.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "itech82.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "iten-metals.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "itep.cl": {
+            "epoch": "1602979200",
+            "expiration_date": "18-oct-2020",
+            "state": "future"
+        },
+        "itex.market": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
         "itgpll.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
@@ -51568,6 +51823,11 @@
         "ito.mx": {
             "epoch": "1567296000",
             "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "itoken-protect.club": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
             "state": "future"
         },
         "itokenseguro.info": {
@@ -51648,6 +51908,11 @@
         "itunes-appssy-account-appleid.com": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "itunes-gift.us": {
+            "epoch": "1566259200",
+            "expiration_date": "20-aug-2019",
             "state": "future"
         },
         "itunesemaildelivery.com": {
@@ -51815,6 +52080,11 @@
             "expiration_date": "11-may-2019",
             "state": "future"
         },
+        "izmirhacamat.us": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
         "izvestnyakstroy.ru": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
@@ -51828,6 +52098,11 @@
         "j-shears.com": {
             "epoch": "1558742400",
             "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "j.gs": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
             "state": "future"
         },
         "j2spro.com": {
@@ -52680,6 +52955,11 @@
             "expiration_date": "08-mar-2019",
             "state": "future"
         },
+        "jendoesmyhair.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
         "jenerationhealth.com": {
             "epoch": "1560902400",
             "expiration_date": "19-jun-2019",
@@ -52878,6 +53158,131 @@
         "jezycjada.pl": {
             "epoch": "1559520000",
             "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "jf-odivelas.win": {
+            "epoch": "1539302400",
+            "expiration_date": "12-oct-2018",
+            "state": "past"
+        },
+        "jfpartyplanner.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "jhanjartv.com": {
+            "epoch": "1653955200",
+            "expiration_date": "31-may-2022",
+            "state": "future"
+        },
+        "jhasel.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "jhcauk.org": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "jhdhfile.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.me": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.net": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhdhfile.org": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "jhnwellness.org": {
+            "epoch": "1661731200",
+            "expiration_date": "29-aug-2022",
+            "state": "future"
+        },
+        "jhoninbox.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "jiaauto.in": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "jiajiaelizabeth.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "jiayuins.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "jibrilianangelintrove.id": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "jidelnahradecka.cz": {
+            "epoch": "1646784000",
+            "expiration_date": "09-mar-2022",
+            "state": "future"
+        },
+        "jihadalasadi.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "jilicola.com": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "jillmsommers.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "jimf-bi.org": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "jimgirardi.com": {
+            "epoch": "1597708800",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "jimhartsen.com": {
+            "epoch": "1667088000",
+            "expiration_date": "30-oct-2022",
+            "state": "future"
+        },
+        "jimmiehardinshowhorses.com": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "jimsings.com": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "jimyateswaterpolo.com": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
             "state": "future"
         },
         "jingsolutions.info": {
@@ -53133,6 +53538,36 @@
         "jocjw.com": {
             "epoch": "1565827200",
             "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "jodanssupplyco.id": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "jodascience.ru": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "jodiepeterkin.com": {
+            "epoch": "1617580800",
+            "expiration_date": "05-apr-2021",
+            "state": "future"
+        },
+        "jodimakers.org": {
+            "epoch": "1605830400",
+            "expiration_date": "20-nov-2020",
+            "state": "future"
+        },
+        "jodohmu.info": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "joeknowsgayporn.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
             "state": "future"
         },
         "jonathangreye.com": {
