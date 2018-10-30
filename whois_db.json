@@ -520,6 +520,16 @@
             "expiration_date": "11-aug-2019",
             "state": "future"
         },
+        "2-bit.club": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "2-complex.com": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
         "2007-mobile.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
@@ -793,6 +803,51 @@
         "2bit.live": {
             "epoch": "1565827200",
             "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "2bit.services": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "2bit.us": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "2bits.live": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "2bits.world": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "2bitt.info": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "2bitt.life": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "2bitt.live": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "2dfd.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "2doc.net": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
             "state": "future"
         },
         "2hm.si": {
