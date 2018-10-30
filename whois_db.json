@@ -5898,7 +5898,7 @@
         "allensbacherzentrum.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "allergicdining.com": {
             "epoch": "1586908800",
@@ -5921,9 +5921,9 @@
             "state": "future"
         },
         "allfashionbuy.com": {
-            "epoch": "1533945600",
-            "expiration_date": "11-aug-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "allforhappy.party": {
             "epoch": "1565654400",
@@ -6018,6 +6018,11 @@
         "allora-tour.by": {
             "epoch": "1543104000",
             "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "allprinting.ro": {
+            "epoch": "1616198400",
+            "expiration_date": "20-mar-2021",
             "state": "future"
         },
         "allproblemsolutionguruji.com": {
@@ -6200,9 +6205,114 @@
             "expiration_date": "16-mar-2019",
             "state": "future"
         },
+        "alodollar.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "aloeveralider.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "aloinverreau.info": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "alojapinguim.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "alomni.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "alomrantransport.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "alorefill.ro": {
+            "epoch": "1628380800",
+            "expiration_date": "08-aug-2021",
+            "state": "future"
+        },
+        "alosmns.net": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "alotincommon.com": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "alouquadiamondre.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "alozen.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "alpacaboliviamall.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "alpacamylife.com": {
+            "epoch": "1542067200",
+            "expiration_date": "13-nov-2018",
+            "state": "future"
+        },
         "alpha-salon.com": {
             "epoch": "1566777600",
             "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "alphabetblackjack.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "alphabetcash.com": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "alphabetchips.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "alphabetdice.uk": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "alphabetkeno.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "alphabetsports.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "alphabetwheel.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "alphaconsultinggrp.com": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "alphadispatchers.com": {
@@ -6274,6 +6384,11 @@
             "epoch": "1566172800",
             "expiration_date": "19-aug-2019",
             "state": "future"
+        },
+        "alpvision.it": {
+            "epoch": "1539561600",
+            "expiration_date": "15-oct-2018",
+            "state": "past"
         },
         "alqash.com": {
             "epoch": "1547164800",
@@ -6730,6 +6845,11 @@
             "expiration_date": "05-sep-2019",
             "state": "future"
         },
+        "americanas-com-br.pl": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
         "americanas-saldaodefraldas.com": {
             "epoch": "1563235200",
             "expiration_date": "16-jul-2019",
@@ -6813,6 +6933,11 @@
         "amgtisk.si": {
             "epoch": "1563321600",
             "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "amh.ro": {
+            "epoch": "1635033600",
+            "expiration_date": "24-oct-2021",
             "state": "future"
         },
         "amhfortrade.com": {
@@ -7126,9 +7251,9 @@
             "state": "future"
         },
         "anamitra.in": {
-            "epoch": "1540339200",
-            "expiration_date": "24-oct-2018",
-            "state": "past"
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
         },
         "anandaparivara.org": {
             "epoch": "1569628800",
