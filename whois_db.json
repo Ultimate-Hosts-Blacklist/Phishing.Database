@@ -103979,6 +103979,16 @@
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
             "state": "future"
+        },
+        "wwwid-nab.com": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "wwwidex.market": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
         }
     }
 }
