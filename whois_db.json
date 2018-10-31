@@ -44040,6 +44040,11 @@
             "expiration_date": "02-mar-2019",
             "state": "future"
         },
+        "gfomelilea.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
         "gfxscalpea.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
@@ -45056,9 +45061,9 @@
             "state": "future"
         },
         "glorytabernacleibadan.org": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "glowlanterns.in": {
             "epoch": "1583452800",
