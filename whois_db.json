@@ -27420,6 +27420,11 @@
             "expiration_date": "02-jun-2019",
             "state": "future"
         },
+        "d-softbank.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
         "d-xpert.com": {
             "epoch": "1563148800",
             "expiration_date": "15-jul-2019",
@@ -30650,6 +30655,11 @@
             "expiration_date": "12-feb-2019",
             "state": "future"
         },
+        "dog-show.ro": {
+            "epoch": "1813622400",
+            "expiration_date": "22-jun-2027",
+            "state": "future"
+        },
         "doganayotel.bid": {
             "epoch": "1559347200",
             "expiration_date": "01-jun-2019",
@@ -30851,8 +30861,8 @@
             "state": "future"
         },
         "domowe.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "domrabotaplus.ru": {
@@ -31615,6 +31625,16 @@
             "expiration_date": "22-apr-2021",
             "state": "future"
         },
+        "ds-overseas.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "ds-servers.info": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
         "dsaa.in": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
@@ -31653,6 +31673,111 @@
         "dsgcbeonline.com": {
             "epoch": "1571184000",
             "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "dsi-center.com": {
+            "epoch": "1536019200",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "dsinnovations.org": {
+            "epoch": "1541635200",
+            "expiration_date": "08-nov-2018",
+            "state": "future"
+        },
+        "dsort3.download": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "dsorubber.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "dstats.net": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "dstem9.ru": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "dtbatna.com": {
+            "epoch": "1702252800",
+            "expiration_date": "11-dec-2023",
+            "state": "future"
+        },
+        "dtfresh.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "dtmaintenance.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "dtmglobal.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "dtorgi.ru": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "dtrumpcasino.com": {
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
+            "state": "future"
+        },
+        "dtsinsid.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "dua-arah.com": {
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "dua-ser.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "dualdentcenter.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "dualinfosolutions.info": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "dubai-oilcorp.company": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "dubaipropertyblog.com": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "dublinsmilesdentistry.com": {
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "dublinwebdesign.com": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
             "state": "future"
         },
         "duboseartanddesign.com": {
