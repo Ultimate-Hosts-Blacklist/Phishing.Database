@@ -45565,6 +45565,11 @@
             "expiration_date": "18-feb-2019",
             "state": "future"
         },
+        "goneor-hosting.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
         "gonetvvork.com": {
             "epoch": "1560211200",
             "expiration_date": "11-jun-2019",
@@ -46723,7 +46728,7 @@
         "grscooterclub.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "grtrucking.net": {
             "epoch": "1608854400",
@@ -47191,13 +47196,18 @@
             "state": "future"
         },
         "gurgaonbattery.in": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "gurgaonclassified.com": {
             "epoch": "1559606400",
             "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "gurkhali.fi": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
             "state": "future"
         },
         "guru-designs.com": {
