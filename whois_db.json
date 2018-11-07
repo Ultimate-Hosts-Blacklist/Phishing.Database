@@ -101065,6 +101065,16 @@
             "expiration_date": "21-jan-2020",
             "state": "future"
         },
+        "t.cn": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "t.co": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
         "ta-valmar.com": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
@@ -101630,6 +101640,11 @@
             "expiration_date": "23-apr-2019",
             "state": "future"
         },
+        "taurasi.ro": {
+            "epoch": "1590537600",
+            "expiration_date": "27-may-2020",
+            "state": "future"
+        },
         "tav.so": {
             "epoch": "1606176000",
             "expiration_date": "24-nov-2020",
@@ -101650,6 +101665,11 @@
             "expiration_date": "06-dec-2018",
             "state": "future"
         },
+        "tax-lien-strategies.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
         "taxaccountanttoronto.com": {
             "epoch": "1559433600",
             "expiration_date": "02-jun-2019",
@@ -101665,9 +101685,89 @@
             "expiration_date": "18-dec-2022",
             "state": "future"
         },
+        "taxgeeks.net": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "taxi-david-lourdes.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "taxi956.ru": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "taxipolska19100.pl": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "taxrefundpayment.info": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "taylormadegolf.asia": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "taytravel.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "tazanews4u.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "tazaragroup.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "tazplus.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "tbeale.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "tbmbusanamuslim.com": {
+            "epoch": "1541980800",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "tbr-d.com": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
         "tc-teb-iade.com": {
             "epoch": "1556064000",
             "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "tccontractorsinc.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "tcfutbolakademisi.com": {
+            "epoch": "1598313600",
+            "expiration_date": "25-aug-2020",
+            "state": "future"
+        },
+        "tchpconnect.net": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
             "state": "future"
         },
         "tcoffeeint.com": {
@@ -101748,7 +101848,7 @@
         "team-aurelius.com": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "team5cup.com": {
             "epoch": "1553558400",
@@ -102326,8 +102426,8 @@
             "state": "future"
         },
         "terracegardeners.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "terrafirmadesignltd.com": {
@@ -102896,8 +102996,8 @@
             "state": "future"
         },
         "thecathedrallive.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "thecentralbaptist.com": {
