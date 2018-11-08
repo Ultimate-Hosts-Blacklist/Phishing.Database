@@ -15246,9 +15246,9 @@
             "state": "future"
         },
         "bigbossjobs.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "bigboytruckparts.com": {
             "epoch": "1565049600",
@@ -15753,6 +15753,11 @@
         "binzomah.com": {
             "epoch": "1634688000",
             "expiration_date": "20-oct-2021",
+            "state": "future"
+        },
+        "bio-colostrum.pl": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
             "state": "future"
         },
         "bio-robots.com": {
@@ -16433,6 +16438,11 @@
         "blockchainimfo.info": {
             "epoch": "1555545600",
             "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "blockchains.directory": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "blockchajin.com": {
