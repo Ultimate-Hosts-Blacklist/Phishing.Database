@@ -5851,8 +5851,8 @@
             "state": "future"
         },
         "allaccesshoops.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "allaccountedfor.com": {
@@ -5926,9 +5926,9 @@
             "state": "future"
         },
         "allensbacherzentrum.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "allergicdining.com": {
             "epoch": "1586908800",
@@ -6416,9 +6416,9 @@
             "state": "future"
         },
         "alpvision.it": {
-            "epoch": "1539561600",
-            "expiration_date": "15-oct-2018",
-            "state": "past"
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
         },
         "alqash.com": {
             "epoch": "1547164800",
@@ -6486,8 +6486,8 @@
             "state": "future"
         },
         "alsulthanscrap.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "alsurdelplaneta.com": {
@@ -6855,6 +6855,11 @@
             "expiration_date": "25-apr-2019",
             "state": "future"
         },
+        "amerex-gastro.cz": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
         "americ-sempre.com": {
             "epoch": "1560816000",
             "expiration_date": "18-jun-2019",
@@ -7008,6 +7013,11 @@
         "amiritorg.ru": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "amit.ro": {
+            "epoch": "1697155200",
+            "expiration_date": "13-oct-2023",
             "state": "future"
         },
         "amityschool.net": {
@@ -7408,7 +7418,7 @@
         "andbazar.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "andeanhikersperu.com": {
             "epoch": "1569715200",
@@ -7488,7 +7498,7 @@
         "andreatestifotografo.it": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "andresjp.com": {
             "epoch": "1548633600",
