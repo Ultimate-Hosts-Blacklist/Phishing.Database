@@ -17306,8 +17306,8 @@
             "state": "future"
         },
         "bombcandy.net": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "bombinas7.com": {
@@ -17403,6 +17403,11 @@
         "bonus-stroy.ru": {
             "epoch": "1563494400",
             "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "bonus-wadowice.pl": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
             "state": "future"
         },
         "bonuscardltd.com": {
@@ -17566,8 +17571,8 @@
             "state": "future"
         },
         "bpwarrior.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "br-networks.com": {
@@ -17591,8 +17596,8 @@
             "state": "future"
         },
         "bradescopj.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "bradrhine.com": {
@@ -17616,8 +17621,8 @@
             "state": "future"
         },
         "brahamastra.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "brahmamugurtham.com": {
@@ -17913,7 +17918,7 @@
         "briefcaze.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "briefsuite.com": {
             "epoch": "1588809600",
