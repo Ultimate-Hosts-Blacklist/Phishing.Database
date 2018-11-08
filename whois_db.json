@@ -2806,8 +2806,8 @@
             "state": "future"
         },
         "acdistributors.ca": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "acdracamu.org": {
@@ -3533,11 +3533,16 @@
         "aderezos2banderas.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adesaocef.com": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "adessovino.it": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
             "state": "future"
         },
         "adexten.com": {
