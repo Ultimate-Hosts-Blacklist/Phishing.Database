@@ -100253,7 +100253,7 @@
         "steviaworld.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "stgregorysschool.org": {
             "epoch": "1565308800",
@@ -100606,8 +100606,8 @@
             "state": "future"
         },
         "stream-partage.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "streamcommunuity.com": {
@@ -100798,7 +100798,7 @@
         "studiesmadesimple.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "studiia-remontov.bid": {
             "epoch": "1566086400",
