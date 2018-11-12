@@ -46950,6 +46950,11 @@
             "expiration_date": "01-may-2019",
             "state": "future"
         },
+        "gp-express.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
         "gpalmerandassociates.com": {
             "epoch": "1602201600",
             "expiration_date": "09-oct-2020",
@@ -47431,9 +47436,9 @@
             "state": "future"
         },
         "greeninggreatertoronto.com": {
-            "epoch": "1534723200",
-            "expiration_date": "20-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "greenishcoffee.com": {
             "epoch": "1553472000",
@@ -47618,7 +47623,7 @@
         "groundflr.com": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "groundzero-tga.com": {
             "epoch": "1545782400",
@@ -47711,9 +47716,9 @@
             "state": "future"
         },
         "grscooterclub.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "grtrucking.net": {
             "epoch": "1608854400",
@@ -47746,8 +47751,8 @@
             "state": "future"
         },
         "grupo-sol.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "grupo-viva.com": {
@@ -48556,8 +48561,8 @@
             "state": "future"
         },
         "halbmeier.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "halfasgoodasyou.com": {
