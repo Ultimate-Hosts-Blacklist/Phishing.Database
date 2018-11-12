@@ -113683,7 +113683,7 @@
         "writeideamedia.com": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "writeinspain.info": {
             "epoch": "1554768000",
@@ -113723,6 +113723,11 @@
         "wserfgf.com": {
             "epoch": "1564963200",
             "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "wsfromania.ro": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
             "state": "future"
         },
         "wspdmaverickradio.com": {
