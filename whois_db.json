@@ -39513,7 +39513,7 @@
         "fail-69cs9.stream": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "fail-81xe1.stream": {
             "epoch": "1549670400",
@@ -39886,8 +39886,8 @@
             "state": "future"
         },
         "fastshort.net": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "fastskins.pro": {
