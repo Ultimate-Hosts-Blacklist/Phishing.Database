@@ -5086,9 +5086,9 @@
             "state": "future"
         },
         "akimali.org": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "akioum.net": {
             "epoch": "1561420800",
@@ -5158,7 +5158,7 @@
         "alarm-69cs9.stream": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alarm-adf49.stream": {
             "epoch": "1551225600",
@@ -5278,6 +5278,11 @@
         "albrecht-consulting.com": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "albumehd.ro": {
+            "epoch": "1614556800",
+            "expiration_date": "01-mar-2021",
             "state": "future"
         },
         "albumsmakemoney.com": {
@@ -5731,8 +5736,8 @@
             "state": "future"
         },
         "aliridho.net": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "alisgroupsrl.com": {
