@@ -3273,7 +3273,7 @@
         "activecity.ro": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "activekeys.info": {
             "epoch": "1565913600",
@@ -3343,7 +3343,7 @@
         "acu.men": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "acuherbtherapy.com": {
             "epoch": "1588464000",
@@ -3536,9 +3536,9 @@
             "state": "future"
         },
         "aderezos2banderas.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "adesaocef.com": {
             "epoch": "1566950400",
@@ -3758,7 +3758,7 @@
         "advokat-efimov.ru": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "advokatmaric.com": {
             "epoch": "1576454400",
@@ -3901,9 +3901,9 @@
             "state": "future"
         },
         "aesurgisaps2018.com": {
-            "epoch": "1534809600",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "aetarms.com": {
             "epoch": "1680652800",
