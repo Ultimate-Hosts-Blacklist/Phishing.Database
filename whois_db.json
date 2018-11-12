@@ -106381,8 +106381,8 @@
             "state": "future"
         },
         "toyatecheco.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "toynanny.com": {
@@ -106701,8 +106701,8 @@
             "state": "future"
         },
         "transheka.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "transkom93.com": {
@@ -106801,9 +106801,9 @@
             "state": "future"
         },
         "travel-hound.com": {
-            "epoch": "1534809600",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "travelamazer.com": {
             "epoch": "1571184000",
@@ -107110,6 +107110,11 @@
             "expiration_date": "29-apr-2019",
             "state": "future"
         },
+        "trin-design.cz": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
         "trinita3.com": {
             "epoch": "1611014400",
             "expiration_date": "19-jan-2021",
@@ -107273,7 +107278,7 @@
         "trpresine.it": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "trs-int.com": {
             "epoch": "1566518400",
