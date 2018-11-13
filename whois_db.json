@@ -33400,6 +33400,11 @@
             "expiration_date": "17-feb-2021",
             "state": "future"
         },
+        "ecovilla.ro": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "ecreateinfotech.com": {
             "epoch": "1567468800",
             "expiration_date": "03-sep-2019",
@@ -33783,7 +33788,7 @@
         "egelikahvecisiduzce.com": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "egeszseges-taplalkozas.info": {
             "epoch": "1560556800",
@@ -33809,6 +33814,11 @@
             "epoch": "1585958400",
             "expiration_date": "04-apr-2020",
             "state": "future"
+        },
+        "egoistic.ro": {
+            "epoch": "1538611200",
+            "expiration_date": "04-oct-2018",
+            "state": "past"
         },
         "egormakarov.com": {
             "epoch": "1545523200",
@@ -34981,8 +34991,8 @@
             "state": "future"
         },
         "emkor.pl": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "emm311.net": {
@@ -35071,8 +35081,8 @@
             "state": "future"
         },
         "empresasdearagon.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "emprestimo-itau-br.com": {
