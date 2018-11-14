@@ -104520,6 +104520,11 @@
             "expiration_date": "17-may-2019",
             "state": "future"
         },
+        "tgworld.ro": {
+            "epoch": "1538956800",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
         "thaicosmetics36.ru": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
@@ -104736,9 +104741,9 @@
             "state": "future"
         },
         "thebestbusinessadvices.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "thebestpizzadough.com": {
             "epoch": "1558742400",
@@ -105616,9 +105621,9 @@
             "state": "future"
         },
         "thiscreativelifemedia.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "thisgreenblog.com": {
             "epoch": "1599523200",
