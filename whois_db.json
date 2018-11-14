@@ -101385,6 +101385,11 @@
             "expiration_date": "21-mar-2019",
             "state": "future"
         },
+        "studiodearhitectura.ro": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "studiojuliakay.com": {
             "epoch": "1807315200",
             "expiration_date": "10-apr-2027",
@@ -101763,7 +101768,7 @@
         "sunsofttec.com": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sunsurveysystems.com": {
             "epoch": "1595030400",
