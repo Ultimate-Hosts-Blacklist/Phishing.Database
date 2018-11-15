@@ -99948,7 +99948,7 @@
         "spotswoodelectric.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sppressindustries.com": {
             "epoch": "1571702400",
@@ -100601,9 +100601,9 @@
             "state": "future"
         },
         "steelteo.com": {
-            "epoch": "1535414400",
-            "expiration_date": "28-aug-2018",
-            "state": "past"
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
         },
         "steeltoncats.org": {
             "epoch": "1693612800",
