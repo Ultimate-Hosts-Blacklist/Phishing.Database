@@ -30543,7 +30543,7 @@
         "directorliabilityinsurance.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "directorydynamix.com": {
             "epoch": "1551484800",
@@ -30661,9 +30661,9 @@
             "state": "future"
         },
         "disulisa.org": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "ditadangmsl.com": {
             "epoch": "1783382400",
