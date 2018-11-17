@@ -114410,6 +114410,11 @@
             "expiration_date": "08-jul-2019",
             "state": "future"
         },
+        "www-spotfy.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
         "www-yobit.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
