@@ -30935,6 +30935,11 @@
             "expiration_date": "15-jul-2019",
             "state": "future"
         },
+        "d.pr": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
         "d28solutions.com": {
             "epoch": "1658966400",
             "expiration_date": "28-jul-2022",
@@ -34691,8 +34696,8 @@
             "state": "future"
         },
         "dollsinyoface.com": {
-            "epoch": "1542499200",
-            "expiration_date": "18-nov-2018",
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "dolphinconservation.org": {
@@ -35100,6 +35105,11 @@
             "expiration_date": "14-aug-2019",
             "state": "future"
         },
+        "download-apk-files.ru": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "download-telegram.ru": {
             "epoch": "1575504000",
             "expiration_date": "05-dec-2019",
@@ -35150,6 +35160,56 @@
             "expiration_date": "19-dec-2018",
             "state": "future"
         },
+        "dpd.org": {
+            "epoch": "1839456000",
+            "expiration_date": "16-apr-2028",
+            "state": "future"
+        },
+        "dpdpay.com": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "dpdplatnosc.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "dpdpoland.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "dpi.ac": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "dpjlxwgq-prisonner20iw871.stream": {
+            "epoch": "1540080000",
+            "expiration_date": "21-oct-2018",
+            "state": "past"
+        },
+        "dpolsonindia.com": {
+            "epoch": "1593475200",
+            "expiration_date": "30-jun-2020",
+            "state": "future"
+        },
+        "dpsjonkowo.pl": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "dpsrobertsganj.in": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "dr-aghaei.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
         "dr-exports.com": {
             "epoch": "1553126400",
             "expiration_date": "21-mar-2019",
@@ -35168,6 +35228,96 @@
         "dr-teeth.in": {
             "epoch": "1630540800",
             "expiration_date": "02-sep-2021",
+            "state": "future"
+        },
+        "drackmuse.com": {
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
+        },
+        "draftinsider.info": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "dragonmartoffers.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "dragons-cases.net": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "draimerkan.com": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "draisdxb.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "drakbarzadelab.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "drakecontrols.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "drakor.info": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "dralfredoponce.com": {
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "dramnacenter.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "dranhoumankare.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "drantoumanuiore.org": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "drappmarketing.net": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "dravalderrama.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "drayconstruction.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "drcotiz.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "drdanlerner.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
             "state": "future"
         },
         "drdavidlinks.com": {
@@ -35730,6 +35880,11 @@
             "expiration_date": "19-aug-2019",
             "state": "future"
         },
+        "ducaeduca.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
         "ducatidavao.com": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
@@ -36093,6 +36248,11 @@
         "dzenastrology.com": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "dzieckobony.pl": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
             "state": "future"
         },
         "e-aims.in": {
