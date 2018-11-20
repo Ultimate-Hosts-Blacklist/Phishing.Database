@@ -48745,6 +48745,11 @@
             "expiration_date": "23-nov-2018",
             "state": "future"
         },
+        "giardinasrl.it": {
+            "epoch": "1541203200",
+            "expiration_date": "03-nov-2018",
+            "state": "past"
+        },
         "giardiniererania.com": {
             "epoch": "1568851200",
             "expiration_date": "19-sep-2019",
@@ -48808,6 +48813,11 @@
         "giftforquests.com": {
             "epoch": "1565136000",
             "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "giftinator.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "giftofbtc.info": {
@@ -49216,8 +49226,8 @@
             "state": "future"
         },
         "gixmi.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "gizmotorium.com": {
@@ -49256,9 +49266,9 @@
             "state": "future"
         },
         "glamorous.hk": {
-            "epoch": "1539993600",
-            "expiration_date": "20-oct-2018",
-            "state": "past"
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
         },
         "glamourbdg.id": {
             "epoch": "1566086400",
@@ -49406,9 +49416,9 @@
             "state": "future"
         },
         "globalholidaystours.com": {
-            "epoch": "1534809600",
-            "expiration_date": "21-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "globalindoreadymix.com": {
             "epoch": "1535500800",
@@ -49761,9 +49771,9 @@
             "state": "future"
         },
         "gnplpro.com": {
-            "epoch": "1542326400",
-            "expiration_date": "16-nov-2018",
-            "state": "past"
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
         },
         "gnpsd.org": {
             "epoch": "1549929600",
