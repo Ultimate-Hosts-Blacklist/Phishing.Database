@@ -80268,7 +80268,7 @@
         "mymobile.asia": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mymobilsite.biz": {
             "epoch": "1563321600",
@@ -80381,8 +80381,8 @@
             "state": "future"
         },
         "mypay.casa": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "mypaymentgateway.net": {
@@ -80715,9 +80715,24 @@
             "expiration_date": "02-jul-2019",
             "state": "future"
         },
+        "mzyb.in": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
         "n-ational-australia-online.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "n1uk.top": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "n3rpv.net": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
             "state": "future"
         },
         "na-b-details-portal.com": {
@@ -80725,9 +80740,39 @@
             "expiration_date": "28-jun-2019",
             "state": "future"
         },
+        "na-bank-detail.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
         "na-rechke.ru": {
             "epoch": "1566172800",
             "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "naajm.com": {
+            "epoch": "1608681600",
+            "expiration_date": "23-dec-2020",
+            "state": "future"
+        },
+        "naaztrading.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "nab-aus-now.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "nab-australia.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "nab-auth.co": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
             "state": "future"
         },
         "nab-cs.co": {
@@ -80766,6 +80811,36 @@
             "state": "future"
         },
         "nab-verify-online.net": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "nabaest.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "nabank-aus.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "nabappmobile.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "nabat.biz": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "nabausservices.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "nabchecknow.com": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
             "state": "future"
@@ -80938,7 +81013,7 @@
         "najowafashion.com": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "nakamabookings.com": {
             "epoch": "1543449600",
@@ -80966,8 +81041,8 @@
             "state": "future"
         },
         "naksucark.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "namastenok.ru": {
@@ -81076,8 +81151,8 @@
             "state": "future"
         },
         "naramatafamilyvacationhome.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "naranjaeditorial.com": {
