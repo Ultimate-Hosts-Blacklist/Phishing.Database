@@ -101195,6 +101195,26 @@
             "expiration_date": "24-apr-2019",
             "state": "future"
         },
+        "secure-sslaticavaosanta.com": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "secure-store-apple-id.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "secure-support-us.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "secure-unconfirmed-ppaccount.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
         "secure-wells-fargo.com": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
@@ -101283,6 +101303,21 @@
         "securepaypal-onlineverify.com": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "securesecurityverified.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "secureserviceonline.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "secureupdate.cc": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
             "state": "future"
         },
         "securewebapps1873accountverifymyaccountappid.com": {
@@ -101698,6 +101733,11 @@
         "sellcheap.world": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "sellercentral-account-amazon.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "selleth.io": {
@@ -102140,9 +102180,34 @@
             "expiration_date": "09-feb-2019",
             "state": "future"
         },
+        "server1-apple.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "servers-zone.net": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
         "servi-home.com": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "servicap.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "service-account-allerts-lockeds.net": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "service-account-update-information.com": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
             "state": "future"
         },
         "service-cdiscount-tombola.one": {
@@ -102268,6 +102333,16 @@
         "service-webpaypal.fr": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "service4mac.win": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "serviceac-batavia.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
             "state": "future"
         },
         "serviceclientz.com": {
