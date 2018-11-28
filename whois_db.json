@@ -20921,8 +20921,8 @@
             "state": "future"
         },
         "bubbaparis.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "bubn.org": {
@@ -21368,7 +21368,7 @@
         "businessprocessefficiency.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "businesstrading-sa.com": {
             "epoch": "1552348800",
@@ -21830,6 +21830,11 @@
             "expiration_date": "20-aug-2019",
             "state": "future"
         },
+        "cadastru-cartefunciara.ro": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
         "cadburchocolate.com": {
             "epoch": "1564012800",
             "expiration_date": "25-jul-2019",
@@ -21921,8 +21926,8 @@
             "state": "future"
         },
         "caglayan2noluasm.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "cagnasso-associati.it": {
@@ -22181,8 +22186,8 @@
             "state": "future"
         },
         "cameradng.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "camercrypt.org": {
@@ -22456,8 +22461,8 @@
             "state": "future"
         },
         "canmatrix.com": {
-            "epoch": "1543104000",
-            "expiration_date": "25-nov-2018",
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
             "state": "future"
         },
         "canmorebrides.com": {
@@ -22511,9 +22516,9 @@
             "state": "future"
         },
         "canyoudeliver.it": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "caotronghop.com": {
             "epoch": "1550534400",
@@ -22590,6 +22595,16 @@
             "expiration_date": "28-jun-2019",
             "state": "future"
         },
+        "capitolschedule.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "capiznews.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
         "caplaine.fr": {
             "epoch": "1573430400",
             "expiration_date": "11-nov-2019",
@@ -22635,6 +22650,16 @@
             "expiration_date": "03-dec-2018",
             "state": "future"
         },
+        "captionsclub.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "captivatingfolklore.net": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
         "captron.org": {
             "epoch": "1584662400",
             "expiration_date": "20-mar-2020",
@@ -22648,6 +22673,11 @@
         "carad.in": {
             "epoch": "1560384000",
             "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "caravanalive.com": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
             "state": "future"
         },
         "caravanfs.com": {
@@ -22668,6 +22698,116 @@
         "carbonrestaurant.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "carbosolutions.ro": {
+            "epoch": "1542585600",
+            "expiration_date": "19-nov-2018",
+            "state": "past"
+        },
+        "carcasallave.com": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "carcentreltd.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "card2.cards": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "card2card.cash": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "cardealershipsmn.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "cardellobuilding.com": {
+            "epoch": "1612051200",
+            "expiration_date": "31-jan-2021",
+            "state": "future"
+        },
+        "cardinalamputate.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "cardionova.in": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "cardoctormobile.com": {
+            "epoch": "1676160000",
+            "expiration_date": "12-feb-2023",
+            "state": "future"
+        },
+        "cardplanetindia.com": {
+            "epoch": "1660867200",
+            "expiration_date": "19-aug-2022",
+            "state": "future"
+        },
+        "cardreservationstatus.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "cardviev.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "care4car.biz": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "caredo.co": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "careeducation.com": {
+            "epoch": "1586649600",
+            "expiration_date": "12-apr-2020",
+            "state": "future"
+        },
+        "careeratggl.cc": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "careerdevelopmentfacilitator.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "careergraphinternational.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "careermoovz.net": {
+            "epoch": "1656460800",
+            "expiration_date": "29-jun-2022",
+            "state": "future"
+        },
+        "careerstudiespoint.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "caregiver.asia": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "carestar.com": {
@@ -22726,8 +22866,8 @@
             "state": "future"
         },
         "carlosalvarezflores.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "carloscarreno.cl": {
