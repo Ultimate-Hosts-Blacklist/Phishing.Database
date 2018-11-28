@@ -88080,6 +88080,11 @@
             "expiration_date": "25-aug-2019",
             "state": "future"
         },
+        "p-knowledge.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
         "p-p.link": {
             "epoch": "1552176000",
             "expiration_date": "10-mar-2019",
@@ -91376,8 +91381,8 @@
             "state": "future"
         },
         "pillpointpharmacy.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "pimb.info": {
@@ -91530,6 +91535,11 @@
             "expiration_date": "31-aug-2019",
             "state": "future"
         },
+        "piscine-la-cheie.ro": {
+            "epoch": "1623110400",
+            "expiration_date": "08-jun-2021",
+            "state": "future"
+        },
         "piscitorsl.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
@@ -91566,8 +91576,8 @@
             "state": "future"
         },
         "pitsi.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "pitunews.com": {
@@ -91608,6 +91618,126 @@
         "pixiesfly.com": {
             "epoch": "1573257600",
             "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "pixitube.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "pixnpro.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "pizza-mamamia.ru": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "pizzamit.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "pizzarela.ro": {
+            "epoch": "1686355200",
+            "expiration_date": "10-jun-2023",
+            "state": "future"
+        },
+        "pjatendimentoempresarialsantand.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "pjpropiedades.cl": {
+            "epoch": "1587340800",
+            "expiration_date": "20-apr-2020",
+            "state": "future"
+        },
+        "pjsstudios.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "pk-srcc.com": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "pkikabu.ru": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "pkjainassociates.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "pkmarineservice.com": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "pksinternational.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "pkv-angebotscheck.com": {
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
+        },
+        "placentiabay.ca": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "placesavings.com": {
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "placesparties.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "planetadicas.com": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "planetalatinas.cl": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "planetasexu.pl": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "planetbpublishing.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "planetdesign3.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "planete-aventure.top": {
+            "epoch": "1563148800",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "planettradinginc.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
             "state": "future"
         },
         "plano-odontologico-facil.com": {
@@ -91651,9 +91781,9 @@
             "state": "future"
         },
         "plasticmonkey.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "plasticron.com": {
             "epoch": "1569801600",
@@ -92176,8 +92306,8 @@
             "state": "future"
         },
         "pollysys.in": {
-            "epoch": "1543104000",
-            "expiration_date": "25-nov-2018",
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
             "state": "future"
         },
         "polofactory.in": {
