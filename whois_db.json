@@ -9198,7 +9198,7 @@
         "apexpolymers.in": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "apfelzwerg.com": {
             "epoch": "1605571200",
@@ -9645,6 +9645,11 @@
             "expiration_date": "19-jan-2019",
             "state": "future"
         },
+        "apple-inform.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
         "apple-lcloud-id.com": {
             "epoch": "1563840000",
             "expiration_date": "23-jul-2019",
@@ -9703,6 +9708,16 @@
         "apple-service.info": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "apple-services-es.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "apple-signin.net": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
             "state": "future"
         },
         "apple-storesv.com": {
@@ -10181,8 +10196,8 @@
             "state": "future"
         },
         "aptex.pro": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "aptgram.biz": {
@@ -10496,8 +10511,8 @@
             "state": "future"
         },
         "areawellness.info": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "arenajax.com": {
@@ -10546,8 +10561,8 @@
             "state": "future"
         },
         "argentine-authentique.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "argesogutma.com": {
@@ -10611,8 +10626,8 @@
             "state": "future"
         },
         "arisaptono.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "ariseandserve.org": {
