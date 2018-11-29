@@ -115610,6 +115610,11 @@
             "expiration_date": "02-apr-2019",
             "state": "future"
         },
+        "tihoogroup.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
         "tiki-craft.com": {
             "epoch": "1573257600",
             "expiration_date": "09-nov-2019",
@@ -115708,7 +115713,7 @@
         "timetogettuned.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "timmammel.com": {
             "epoch": "1554076800",
@@ -117393,7 +117398,7 @@
         "trexel.net": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "trgoabc.bid": {
             "epoch": "1539302400",
