@@ -90505,6 +90505,11 @@
             "expiration_date": "20-nov-2018",
             "state": "past"
         },
+        "pensiunea-andutu.ro": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
         "pentagonsys.com": {
             "epoch": "1582502400",
             "expiration_date": "24-feb-2020",
@@ -91966,8 +91971,8 @@
             "state": "future"
         },
         "plastikmalzeme.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "plastisserra.com": {
