@@ -11778,7 +11778,7 @@
         "at-pac.cc": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "atamanlouer.com": {
             "epoch": "1564272000",
@@ -13396,8 +13396,8 @@
             "state": "future"
         },
         "aziya-mix.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "azld12.org": {
