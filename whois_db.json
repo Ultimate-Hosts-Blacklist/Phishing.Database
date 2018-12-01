@@ -47908,7 +47908,7 @@
         "funvsmasti.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "funztec.com": {
             "epoch": "1566172800",
@@ -48846,8 +48846,8 @@
             "state": "future"
         },
         "gbxevents.org": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "gcelogistic.com": {
