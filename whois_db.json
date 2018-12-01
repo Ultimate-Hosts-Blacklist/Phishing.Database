@@ -1848,7 +1848,7 @@
         "a3ddns.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "a4d-development.org": {
             "epoch": "1553904000",
@@ -1923,7 +1923,7 @@
         "aadarshschool.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "aadieinternational.com": {
             "epoch": "1566000000",
