@@ -114423,7 +114423,7 @@
         "terziurunleri.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tescobankonline.com": {
             "epoch": "1570579200",
@@ -114630,6 +114630,11 @@
             "expiration_date": "24-sep-2019",
             "state": "future"
         },
+        "tgips.org": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
         "tglobcana.com": {
             "epoch": "1566345600",
             "expiration_date": "21-aug-2019",
@@ -114678,7 +114683,7 @@
         "thaillandcompanion.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "thaistarshop.com": {
             "epoch": "1560556800",
@@ -114761,8 +114766,8 @@
             "state": "future"
         },
         "the-islands.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "the-optimiser.com": {
@@ -115265,6 +115270,11 @@
             "expiration_date": "06-dec-2019",
             "state": "future"
         },
+        "thehandofprice.net": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
         "thehappinessexplorer.com": {
             "epoch": "1605398400",
             "expiration_date": "15-nov-2020",
@@ -115276,8 +115286,8 @@
             "state": "future"
         },
         "thehawi-image.org": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "thehemingrays.com": {
@@ -116026,8 +116036,8 @@
             "state": "future"
         },
         "thinkeatsmile.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "thinkercommissionoutlook.com": {
@@ -116111,8 +116121,8 @@
             "state": "future"
         },
         "thomasereyitomi.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "thomasgunther.com": {
@@ -116133,7 +116143,7 @@
         "thoonganagaram.in": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "thoroughbredtrack.com": {
             "epoch": "1548028800",
@@ -116416,9 +116426,9 @@
             "state": "future"
         },
         "timetogettuned.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
-            "state": "past"
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
         },
         "timmammel.com": {
             "epoch": "1554076800",
