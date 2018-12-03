@@ -108538,7 +108538,7 @@
         "soulsparking.com": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "soulswest.org": {
             "epoch": "1570060800",
@@ -109113,7 +109113,7 @@
         "sportsananta.com": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sportsaustralasia.com": {
             "epoch": "1561766400",
@@ -109411,8 +109411,8 @@
             "state": "future"
         },
         "ssbpelitajaya.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "ssccafe.in": {
