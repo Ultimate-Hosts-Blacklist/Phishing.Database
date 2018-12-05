@@ -108355,6 +108355,11 @@
             "expiration_date": "16-aug-2019",
             "state": "future"
         },
+        "somp.ro": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
         "somruswines.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
@@ -108541,9 +108546,9 @@
             "state": "future"
         },
         "soulsparking.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "soulswest.org": {
             "epoch": "1570060800",
