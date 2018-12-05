@@ -121183,7 +121183,7 @@
         "vanitysalonofbuffalo.com": {
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "vanprint.am": {
             "epoch": "1549670400",
@@ -122168,11 +122168,11 @@
         "vicmusik.com": {
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "victimsafetyguide.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "victoiremousseau.fr": {
@@ -123041,9 +123041,9 @@
             "state": "future"
         },
         "vividrealitiesconsult.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "vivirenchina.com": {
             "epoch": "1579737600",
