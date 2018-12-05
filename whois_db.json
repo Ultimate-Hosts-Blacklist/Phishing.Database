@@ -23970,6 +23970,11 @@
             "expiration_date": "09-mar-2019",
             "state": "future"
         },
+        "cciroenfr.ro": {
+            "epoch": "1538524800",
+            "expiration_date": "03-oct-2018",
+            "state": "past"
+        },
         "cclose.com": {
             "epoch": "1597190400",
             "expiration_date": "12-aug-2020",
