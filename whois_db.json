@@ -65975,6 +65975,11 @@
             "expiration_date": "09-aug-2019",
             "state": "future"
         },
+        "kicherche.biz": {
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
         "kichodot.id": {
             "epoch": "1572480000",
             "expiration_date": "31-oct-2019",
@@ -66768,7 +66773,7 @@
         "komanefilms.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "komatz-tech.com": {
             "epoch": "1550016000",
