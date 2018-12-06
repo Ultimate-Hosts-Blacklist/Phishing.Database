@@ -24738,7 +24738,7 @@
         "ceyhundislioglu.com": {
             "epoch": "1543968000",
             "expiration_date": "05-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ceylonthewonderisle.com": {
             "epoch": "1563408000",
@@ -25213,7 +25213,7 @@
         "chatfactoryjaipur.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "chatterbalks.com": {
             "epoch": "1545177600",
@@ -26101,9 +26101,9 @@
             "state": "future"
         },
         "cibcmobile.com": {
-            "epoch": "1535673600",
-            "expiration_date": "31-aug-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "cibconline-verification.com": {
             "epoch": "1555459200",
