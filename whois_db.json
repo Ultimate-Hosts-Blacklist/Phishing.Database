@@ -6083,7 +6083,7 @@
         "alert-rs31.stream": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "alert-security.net": {
             "epoch": "1609891200",
