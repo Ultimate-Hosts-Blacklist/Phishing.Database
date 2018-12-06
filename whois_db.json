@@ -6858,7 +6858,7 @@
         "almas-consultants.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "almatulum.com": {
             "epoch": "1594771200",
@@ -8866,9 +8866,9 @@
             "state": "future"
         },
         "anteliasdiocese.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "anthologiahumana.com": {
             "epoch": "1555891200",
