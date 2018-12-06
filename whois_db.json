@@ -69608,7 +69608,7 @@
         "level3dwalls.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "levelacommodities.com": {
             "epoch": "1555459200",
@@ -70726,9 +70726,9 @@
             "state": "future"
         },
         "liverdiseasesurvivors.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
-            "state": "past"
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
         },
         "liverichspreadwealthworldtour.com": {
             "epoch": "1591920000",
