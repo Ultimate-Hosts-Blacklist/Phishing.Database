@@ -33905,6 +33905,11 @@
             "expiration_date": "20-sep-2018",
             "state": "past"
         },
+        "detailsindia.in": {
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
         "detal.info": {
             "epoch": "1562716800",
             "expiration_date": "10-jul-2019",
@@ -35138,7 +35143,7 @@
         "diving4fun.net": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "divinityoflove.org": {
             "epoch": "1554854400",
@@ -35146,9 +35151,9 @@
             "state": "future"
         },
         "divinoca.com": {
-            "epoch": "1537315200",
-            "expiration_date": "19-sep-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "divorcebypublicationflorida.com": {
             "epoch": "1545523200",
