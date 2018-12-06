@@ -47450,6 +47450,11 @@
             "expiration_date": "02-may-2019",
             "state": "future"
         },
+        "freesticker.ml": {
+            "epoch": "1854489600",
+            "expiration_date": "07-oct-2028",
+            "state": "future"
+        },
         "freestickers.world": {
             "epoch": "1569110400",
             "expiration_date": "22-sep-2019",
@@ -48868,7 +48873,7 @@
         "gcflips.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "gcfmail.com": {
             "epoch": "1551139200",
