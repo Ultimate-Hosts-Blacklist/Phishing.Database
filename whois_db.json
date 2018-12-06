@@ -85253,7 +85253,7 @@
         "nursingstudyplan.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "nursingvisit.com": {
             "epoch": "1572566400",
@@ -85611,9 +85611,9 @@
             "state": "future"
         },
         "observatoryvr.com": {
-            "epoch": "1537056000",
-            "expiration_date": "16-sep-2018",
-            "state": "past"
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
         },
         "obsidian.su": {
             "epoch": "1564358400",
