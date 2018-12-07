@@ -48871,9 +48871,9 @@
             "state": "future"
         },
         "gcflips.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
         },
         "gcfmail.com": {
             "epoch": "1551139200",
@@ -49198,6 +49198,11 @@
         "genova7.it": {
             "epoch": "1559606400",
             "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "gentishop.ro": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "gentriwatercorp.com": {
