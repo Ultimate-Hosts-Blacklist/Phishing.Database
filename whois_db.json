@@ -62553,7 +62553,7 @@
         "jantienvoortaal.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jantrans.com": {
             "epoch": "1567296000",
@@ -62731,9 +62731,9 @@
             "state": "future"
         },
         "jaymay-owa.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
         },
         "jayprakashsomani.com": {
             "epoch": "1601942400",
