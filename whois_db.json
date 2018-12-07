@@ -80218,7 +80218,7 @@
         "mustafamamun.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mustangtrekkinginnepal.com": {
             "epoch": "1559952000",
@@ -81506,9 +81506,9 @@
             "state": "future"
         },
         "mymilitarytravel.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
         },
         "myminuswindow.info": {
             "epoch": "1562457600",
