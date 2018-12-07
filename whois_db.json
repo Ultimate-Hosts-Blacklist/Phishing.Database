@@ -123818,7 +123818,7 @@
         "wachtmeester.nu": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "wadasbuy.com": {
             "epoch": "1566518400",
@@ -124006,9 +124006,9 @@
             "state": "future"
         },
         "wardlawdramatrust.org": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
         },
         "wardlawoffice.net": {
             "epoch": "1549756800",
