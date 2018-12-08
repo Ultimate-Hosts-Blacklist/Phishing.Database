@@ -94225,6 +94225,11 @@
             "expiration_date": "12-aug-2018",
             "state": "past"
         },
+        "proiectsbc.ro": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
         "projectbreaker.org": {
             "epoch": "1565568000",
             "expiration_date": "12-aug-2019",
@@ -94258,7 +94263,7 @@
         "projectushindi.org": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "projectvoltage.com": {
             "epoch": "1572566400",
@@ -94598,7 +94603,7 @@
         "proserinsa.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "prospecspecialties.com": {
             "epoch": "1558828800",
@@ -95983,7 +95988,7 @@
         "quitsmokinghabit.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "quiz-world.live": {
             "epoch": "1566172800",
