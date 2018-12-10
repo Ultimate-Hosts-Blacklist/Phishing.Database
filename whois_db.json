@@ -1906,8 +1906,8 @@
             "state": "future"
         },
         "aacerflooring.in": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "aacihealthcare.com": {
@@ -2038,7 +2038,7 @@
         "aarif.co": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "aaronmaxdesign.com": {
             "epoch": "1556755200",
@@ -2308,7 +2308,7 @@
         "abidatozai.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "abidjanfashion.com": {
             "epoch": "1601942400",
@@ -2641,9 +2641,9 @@
             "state": "future"
         },
         "acamarlimited.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "acc-client-info.org": {
             "epoch": "1565136000",
