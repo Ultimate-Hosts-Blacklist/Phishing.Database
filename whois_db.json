@@ -123293,7 +123293,7 @@
         "vladnetwork.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "vlamangounkes.com": {
             "epoch": "1564272000",
@@ -123541,8 +123541,8 @@
             "state": "past"
         },
         "vplan.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "vpnvk.info": {
@@ -124351,9 +124351,9 @@
             "state": "future"
         },
         "wdguidebooks.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "wdwstandard.com": {
             "epoch": "1562803200",
