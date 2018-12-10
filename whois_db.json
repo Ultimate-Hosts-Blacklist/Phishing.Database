@@ -69323,7 +69323,7 @@
         "lempresasdistrital.com": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "lendemaindeveille.ca": {
             "epoch": "1572220800",
@@ -69876,8 +69876,8 @@
             "state": "future"
         },
         "lifebridgeministry.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "lifecareinstruments.com": {
