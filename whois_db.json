@@ -24078,7 +24078,7 @@
         "cduloures.org": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ce-midi.fr": {
             "epoch": "1553644800",
@@ -24556,9 +24556,9 @@
             "state": "future"
         },
         "ceouniversityblog.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
-            "state": "past"
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
         },
         "cep-islemleri.com": {
             "epoch": "1562198400",
