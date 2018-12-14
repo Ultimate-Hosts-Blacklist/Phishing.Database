@@ -7700,6 +7700,11 @@
             "expiration_date": "18-jan-2019",
             "state": "future"
         },
+        "americanalow.gq": {
+            "epoch": "1857600000",
+            "expiration_date": "12-nov-2028",
+            "state": "future"
+        },
         "americanas-com-br-black-friday.pl": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
@@ -8656,9 +8661,9 @@
             "state": "future"
         },
         "anjoe.com": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
-            "state": "past"
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
         },
         "ankitaenterprise.com": {
             "epoch": "1570579200",
