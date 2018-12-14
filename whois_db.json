@@ -116803,7 +116803,7 @@
         "tndpa.com": {
             "epoch": "1544745600",
             "expiration_date": "14-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "tnrtravel.com": {
             "epoch": "1548892800",
@@ -116916,8 +116916,8 @@
             "state": "future"
         },
         "tokaipowerengineering.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "token-emrify.com": {
