@@ -8658,7 +8658,7 @@
         "anjoe.com": {
             "epoch": "1544745600",
             "expiration_date": "14-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ankitaenterprise.com": {
             "epoch": "1570579200",
@@ -8868,6 +8868,11 @@
         "anteliasdiocese.com": {
             "epoch": "1575504000",
             "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "anthem-apparel.com": {
+            "epoch": "1607817600",
+            "expiration_date": "13-dec-2020",
             "state": "future"
         },
         "anthologiahumana.com": {
