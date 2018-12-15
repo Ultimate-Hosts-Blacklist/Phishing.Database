@@ -72501,13 +72501,13 @@
             "state": "future"
         },
         "lyumaris.com": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "lzen.in": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "m-mbank.pl": {
@@ -72541,9 +72541,9 @@
             "state": "future"
         },
         "m360.us": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
-            "state": "past"
+            "epoch": "1639094400",
+            "expiration_date": "10-dec-2021",
+            "state": "future"
         },
         "m42club.com": {
             "epoch": "1572307200",
@@ -72748,7 +72748,7 @@
         "mactayiz.net": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mactel-com.com": {
             "epoch": "1547769600",
