@@ -52583,7 +52583,7 @@
         "grupoarsitel.com": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "grupocorporation.com": {
             "epoch": "1546992000",
@@ -52781,9 +52781,9 @@
             "state": "future"
         },
         "gtmtiket.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
-            "state": "past"
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
         },
         "gtrehtistic.com": {
             "epoch": "1562630400",
