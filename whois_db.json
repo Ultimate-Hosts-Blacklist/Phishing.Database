@@ -40433,7 +40433,7 @@
         "epicievents.com": {
             "epoch": "1545177600",
             "expiration_date": "19-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "epicstorage.com": {
             "epoch": "1611619200",
@@ -40531,9 +40531,9 @@
             "state": "future"
         },
         "equitybuild-finance.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
         },
         "erakoservices.com": {
             "epoch": "1568160000",
