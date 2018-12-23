@@ -24438,7 +24438,7 @@
         "centralcanadamortgage.com": {
             "epoch": "1545523200",
             "expiration_date": "23-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "centralctchambers.net": {
             "epoch": "1551657600",
@@ -25236,9 +25236,9 @@
             "state": "future"
         },
         "chatterbalks.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "chatterchimpz.com": {
             "epoch": "1568332800",
@@ -25266,8 +25266,8 @@
             "state": "future"
         },
         "chaznorth.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "chbkonline.com": {
