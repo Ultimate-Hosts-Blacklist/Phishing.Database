@@ -114913,7 +114913,7 @@
         "theanticipated.com": {
             "epoch": "1545609600",
             "expiration_date": "24-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "theappliedphilosopher.com": {
             "epoch": "1551830400",
@@ -117021,8 +117021,8 @@
             "state": "future"
         },
         "tolgasdemir.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "tomahawktraffic.com": {
