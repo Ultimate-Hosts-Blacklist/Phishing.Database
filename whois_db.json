@@ -3068,7 +3068,7 @@
         "accs-it.com": {
             "epoch": "1545609600",
             "expiration_date": "24-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "accs-service-support.biz": {
             "epoch": "1567036800",
@@ -3691,9 +3691,9 @@
             "state": "future"
         },
         "adabtv.org": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
-            "state": "past"
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
         },
         "adaccount-limita.com": {
             "epoch": "1558051200",
