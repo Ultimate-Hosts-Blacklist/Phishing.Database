@@ -98423,7 +98423,7 @@
         "resolution-service-account.com": {
             "epoch": "1545523200",
             "expiration_date": "23-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "resolvabb.com": {
             "epoch": "1556928000",
@@ -99601,9 +99601,9 @@
             "state": "future"
         },
         "rockywepner.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "rocon.ru": {
             "epoch": "1575158400",
@@ -99713,7 +99713,7 @@
         "roksconsultancy.com": {
             "epoch": "1545523200",
             "expiration_date": "23-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "rokthewok.com": {
             "epoch": "1557705600",
@@ -100196,8 +100196,8 @@
             "state": "future"
         },
         "rstk.by": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "rsuwilliambooth.com": {
