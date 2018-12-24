@@ -8175,11 +8175,8 @@
             "zonasegura1-bn-com-pe-multired-zona-virtual.recyrub.com.mx",
             "zonasegurabeta.ga",
             "zonasegurabnpe.com",
-            "zraatbreysel-giris.com"
-        ],
-        "to_test": [
-            "1.bc-mobile.com",
-            "1.idwebsrdir.ml",
+            "zraatbreysel-giris.com",
+            "101.251.68.147",
             "182.252.0.140",
             "185.183.96.93",
             "185.189.56.139",
@@ -8187,7 +8184,11 @@
             "185.189.56.198",
             "185.189.56.242",
             "185.189.56.36",
-            "185.189.56.87",
+            "185.189.56.87"
+        ],
+        "to_test": [
+            "1.bc-mobile.com",
+            "1.idwebsrdir.ml",
             "195.110.59.209",
             "195.24.64.221",
             "195.24.64.232",
