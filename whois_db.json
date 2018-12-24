@@ -121158,7 +121158,7 @@
         "valoredominio.men": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "valorfirellc.com": {
             "epoch": "1710374400",
@@ -121361,9 +121361,9 @@
             "state": "future"
         },
         "varuninoxware.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "vashki-sbbg.ru": {
             "epoch": "1562630400",
