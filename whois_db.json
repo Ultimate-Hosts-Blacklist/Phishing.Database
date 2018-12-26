@@ -1958,7 +1958,7 @@
         "aaganpost.com": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "aahjf.net": {
             "epoch": "1571875200",
@@ -2196,9 +2196,9 @@
             "state": "future"
         },
         "abcentar.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "abclabcihazlari.com": {
             "epoch": "1546732800",
