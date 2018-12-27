@@ -84686,8 +84686,8 @@
             "state": "future"
         },
         "northamericanvisa.ca": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "northcarolina100.com": {
@@ -84813,7 +84813,7 @@
         "nostalgitv.com": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "notaiobrando.it": {
             "epoch": "1548547200",
