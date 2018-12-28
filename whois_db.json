@@ -58698,7 +58698,7 @@
         "imgspeak.com": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "imindmap.com": {
             "epoch": "1616112000",
@@ -59976,9 +59976,9 @@
             "state": "future"
         },
         "insigniatrg.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
-            "state": "past"
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
         },
         "insignis.in": {
             "epoch": "1565136000",
