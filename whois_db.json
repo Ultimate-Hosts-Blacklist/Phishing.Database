@@ -83393,7 +83393,7 @@
         "netflixpremiumaccount.com": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "netflixremote.com": {
             "epoch": "1567468800",
@@ -83556,8 +83556,8 @@
             "state": "future"
         },
         "newcontinent-eg.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "newcpnfile.com": {
@@ -84378,7 +84378,7 @@
         "niveducation.com": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "niverdom.in": {
             "epoch": "1554076800",
