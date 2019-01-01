@@ -109898,7 +109898,7 @@
         "statplex.com": {
             "epoch": "1546128000",
             "expiration_date": "30-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "statru.org": {
             "epoch": "1549670400",
@@ -109936,8 +109936,8 @@
             "state": "future"
         },
         "stclick.ru": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "stcroixlofts.com": {
@@ -110351,9 +110351,9 @@
             "state": "future"
         },
         "sterlingcnr.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "stevebuyshouseshawaii.com": {
             "epoch": "1548288000",
@@ -111101,8 +111101,8 @@
             "state": "future"
         },
         "stvincentpallottischool.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "styleadvisor.net": {
