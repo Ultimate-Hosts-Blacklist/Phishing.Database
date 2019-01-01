@@ -101565,6 +101565,11 @@
             "expiration_date": "06-apr-2025",
             "state": "future"
         },
+        "samanaacademy.xyz": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
         "samandcompany.com": {
             "epoch": "1696550400",
             "expiration_date": "06-oct-2023",
@@ -102438,7 +102443,7 @@
         "saverscommunication.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "saversites.com": {
             "epoch": "1558569600",
