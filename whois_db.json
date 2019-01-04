@@ -3143,7 +3143,7 @@
         "acediesels.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "acenonwoven.com": {
             "epoch": "1564704000",
@@ -3536,8 +3536,8 @@
             "state": "future"
         },
         "actionclouds.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "actionnetwork.org": {
@@ -4041,8 +4041,8 @@
             "state": "future"
         },
         "adrenalinepass.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "adrforumlaw.com": {
