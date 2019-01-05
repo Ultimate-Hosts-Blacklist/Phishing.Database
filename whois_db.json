@@ -99601,9 +99601,9 @@
             "state": "future"
         },
         "rockshop-music.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
-            "state": "past"
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
         },
         "rocksvillfarms.com": {
             "epoch": "1547769600",
@@ -99778,7 +99778,7 @@
         "romalyorkies.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "romancephotography.com": {
             "epoch": "1747526400",
