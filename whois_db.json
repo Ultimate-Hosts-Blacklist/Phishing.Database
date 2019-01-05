@@ -106446,8 +106446,8 @@
             "state": "future"
         },
         "silkenwindhound.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "silkenwindhounds.org": {
@@ -106863,7 +106863,7 @@
         "sitenetmaster.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sitesumo.com": {
             "epoch": "1593561600",
@@ -107338,7 +107338,7 @@
         "slettemark.dk": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sliceintohtml.com": {
             "epoch": "1546819200",
