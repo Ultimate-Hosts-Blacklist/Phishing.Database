@@ -4351,8 +4351,8 @@
             "state": "future"
         },
         "aeonindustrials.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "aepcorporationbdltd.com": {
@@ -4711,9 +4711,9 @@
             "state": "future"
         },
         "agenziadelleentrate.it": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "agenziadelleentrate.net": {
             "epoch": "1569369600",
@@ -5046,8 +5046,8 @@
             "state": "future"
         },
         "ahoi.cz": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "ahpens.com": {
@@ -5431,8 +5431,8 @@
             "state": "future"
         },
         "aiswholesale.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "aja-bd.com": {
@@ -6073,7 +6073,7 @@
         "alert-53sb3.stream": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "alert-abp51.stream": {
             "epoch": "1548288000",
