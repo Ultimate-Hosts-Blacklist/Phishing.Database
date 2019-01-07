@@ -3141,9 +3141,9 @@
             "state": "future"
         },
         "acediesels.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
-            "state": "past"
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
         },
         "acenonwoven.com": {
             "epoch": "1564704000",
@@ -3153,6 +3153,11 @@
         "aceofbladesbarber.com": {
             "epoch": "1571616000",
             "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "acer-hosting.org": {
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "acerogreen.com": {
