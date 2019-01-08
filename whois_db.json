@@ -81683,12 +81683,12 @@
         "mypays.info": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mypays.net": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mypays.org": {
             "epoch": "1571961600",
