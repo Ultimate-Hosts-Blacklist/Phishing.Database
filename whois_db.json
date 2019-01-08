@@ -112833,7 +112833,7 @@
         "t-v2.link": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "t.cn": {
             "epoch": "1566518400",
@@ -118948,7 +118948,7 @@
         "tutuappdownloadapk.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "tuwebenlanube.net": {
             "epoch": "1556755200",
@@ -119616,8 +119616,8 @@
             "state": "future"
         },
         "ultimatestrengthandcore.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "ultimatewoodworks.com": {
