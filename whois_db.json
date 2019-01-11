@@ -45066,8 +45066,8 @@
             "state": "future"
         },
         "federacionpbb.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "federicafratoni.net": {
@@ -45431,8 +45431,8 @@
             "state": "future"
         },
         "ficnova.org": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "ficopub.com": {
@@ -45683,7 +45683,7 @@
         "fimeplast.com": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "fimo.me": {
             "epoch": "1555545600",
@@ -45788,6 +45788,11 @@
         "fincennews.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "find-cheating-wives.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "find-device.net": {
