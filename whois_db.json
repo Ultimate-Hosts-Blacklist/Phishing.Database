@@ -11818,7 +11818,7 @@
         "atccn3.it": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "atcgoaltending.com": {
             "epoch": "1674172800",
@@ -12308,7 +12308,7 @@
         "audley-moore.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "augustine-hk.com": {
             "epoch": "1550275200",
