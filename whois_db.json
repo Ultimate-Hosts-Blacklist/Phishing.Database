@@ -3063,7 +3063,7 @@
         "accroforum.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "accs-it.com": {
             "epoch": "1577145600",
@@ -4026,9 +4026,9 @@
             "state": "future"
         },
         "adplaner.in": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "adpleno.se": {
             "epoch": "1548547200",
@@ -4218,7 +4218,7 @@
         "adventuredaycamps.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adventures9.com": {
             "epoch": "1565481600",
