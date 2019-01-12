@@ -4803,7 +4803,7 @@
         "agita.cl": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "agn-city.net": {
             "epoch": "1550793600",
@@ -4998,7 +4998,7 @@
         "ahb-law.net": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ahcfunds.com": {
             "epoch": "1589155200",
@@ -7096,8 +7096,8 @@
             "state": "future"
         },
         "alqash.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "alraed-alarabi.com": {
