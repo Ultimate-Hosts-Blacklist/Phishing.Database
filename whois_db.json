@@ -7813,7 +7813,7 @@
         "amhfortrade.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "amholistics.com": {
             "epoch": "1556841600",
@@ -9178,7 +9178,7 @@
         "apartmanizlatibor.net": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "apartmorze.pl": {
             "epoch": "1577404800",
