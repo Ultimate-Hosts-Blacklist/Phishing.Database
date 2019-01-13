@@ -49283,7 +49283,7 @@
         "geoinfotech.in": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "geolocaux.men": {
             "epoch": "1545350400",
@@ -49796,9 +49796,9 @@
             "state": "future"
         },
         "gfaprica.it": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
-            "state": "past"
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
         },
         "gffcole.com": {
             "epoch": "1536105600",
