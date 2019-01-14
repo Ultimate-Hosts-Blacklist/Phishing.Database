@@ -48083,7 +48083,7 @@
         "fuxg.com": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "fuzzybeauty.com": {
             "epoch": "1575072000",
@@ -49281,9 +49281,9 @@
             "state": "future"
         },
         "geoinfotech.in": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
-            "state": "past"
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
         },
         "geolocaux.men": {
             "epoch": "1545350400",
