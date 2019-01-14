@@ -31433,7 +31433,7 @@
         "curtaiptv.top": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "curtarroyo.com": {
             "epoch": "1557705600",
@@ -31591,8 +31591,8 @@
             "state": "future"
         },
         "cvadvocates.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "cvector.ru": {
