@@ -271,8 +271,8 @@
             "state": "future"
         },
         "12oclocktrades.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "12stepcds.com": {
@@ -283,7 +283,7 @@
         "12tedenskatransformacija.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "12wcwsx-sst-n5n.win": {
             "epoch": "1540166400",
