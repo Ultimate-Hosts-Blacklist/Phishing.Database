@@ -17786,8 +17786,8 @@
             "state": "future"
         },
         "bimatamagroup.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "bimatastudio.com": {
@@ -18128,7 +18128,7 @@
         "bipads.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "biponi.in": {
             "epoch": "1578960000",
