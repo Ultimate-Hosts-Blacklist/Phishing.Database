@@ -99628,7 +99628,7 @@
         "rocksvillfarms.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rockwellmemorycare.com": {
             "epoch": "1550448000",
@@ -100153,7 +100153,7 @@
         "rracca.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "rrd.me": {
             "epoch": "1569024000",
@@ -100246,8 +100246,8 @@
             "state": "future"
         },
         "rtaddictiontherapy.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "rtc-ksa.com": {
