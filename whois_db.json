@@ -6033,7 +6033,7 @@
         "alefilmy.trade": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "aleflex.it": {
             "epoch": "1553472000",
@@ -6196,8 +6196,8 @@
             "state": "future"
         },
         "alextacos.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "alfabankovo.ru": {
