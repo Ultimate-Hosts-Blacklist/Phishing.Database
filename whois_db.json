@@ -100948,7 +100948,7 @@
         "safarglobe.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "safe-claim.info": {
             "epoch": "1565049600",
@@ -101621,9 +101621,9 @@
             "state": "future"
         },
         "samayperu.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
         },
         "sambalgarang.com": {
             "epoch": "1553040000",
