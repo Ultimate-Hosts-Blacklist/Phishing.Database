@@ -71343,7 +71343,7 @@
         "logic-host.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "logicielpirater.fr": {
             "epoch": "1553644800",
@@ -72371,8 +72371,8 @@
             "state": "future"
         },
         "lushlo.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "lusinefashion.com": {
