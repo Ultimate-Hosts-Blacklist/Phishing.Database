@@ -87846,9 +87846,9 @@
             "state": "future"
         },
         "oslodatingnetwork.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
         },
         "osmanocak.com": {
             "epoch": "1563148800",
@@ -87933,6 +87933,11 @@
         "otentiqueglobal.com": {
             "epoch": "1559952000",
             "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "othoy.com": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "otoeveryday.info": {
