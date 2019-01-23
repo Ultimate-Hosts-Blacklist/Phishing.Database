@@ -31298,7 +31298,7 @@
         "cumbis.com": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cumbreperu.com": {
             "epoch": "1560384000",
@@ -31586,8 +31586,8 @@
             "state": "future"
         },
         "cuu.su": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "cvadvocates.com": {
