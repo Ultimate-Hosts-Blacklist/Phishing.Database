@@ -94516,8 +94516,8 @@
             "state": "future"
         },
         "promolinks.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "promomalua.com": {
@@ -94938,7 +94938,7 @@
         "pspnautomation.com": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "pspsh.com": {
             "epoch": "1573948800",
@@ -95036,9 +95036,9 @@
             "state": "future"
         },
         "ptm.ag": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "ptmdsb.com": {
             "epoch": "1563667200",
