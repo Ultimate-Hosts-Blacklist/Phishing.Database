@@ -49763,7 +49763,7 @@
         "gettelnetwork.com": {
             "epoch": "1548547200",
             "expiration_date": "27-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getthedata.org": {
             "epoch": "1573430400",
@@ -49841,8 +49841,8 @@
             "state": "future"
         },
         "gggtestsite.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "gghegde.com": {
@@ -50033,7 +50033,7 @@
         "giftforfree.ru": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "giftforquest1.com": {
             "epoch": "1565049600",
