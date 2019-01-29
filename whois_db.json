@@ -82836,8 +82836,8 @@
             "state": "future"
         },
         "ncbna.org": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "ncbwsacramento.org": {
@@ -83021,9 +83021,9 @@
             "state": "future"
         },
         "neilmacqueen.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "nekretnineblink.rs": {
             "epoch": "1568937600",
@@ -84808,7 +84808,7 @@
         "norton-nortoncomsetup.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "nortoncom.org": {
             "epoch": "1589500800",
