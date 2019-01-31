@@ -45761,8 +45761,8 @@
             "state": "future"
         },
         "finanseag.pl": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "finansnmgolf.com": {
@@ -47148,7 +47148,7 @@
         "foukart.com": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "foumantionnelles.com": {
             "epoch": "1553904000",
@@ -47366,9 +47366,9 @@
             "state": "future"
         },
         "freebibleimages.org": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "freebikeadvice.com": {
             "epoch": "1573257600",
