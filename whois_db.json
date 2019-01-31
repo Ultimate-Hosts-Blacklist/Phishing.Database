@@ -75643,7 +75643,7 @@
         "medicinskab.dk": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "mediclaboral.com": {
             "epoch": "1556928000",
@@ -75926,8 +75926,8 @@
             "state": "future"
         },
         "meetcita.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "meetlines.it": {
