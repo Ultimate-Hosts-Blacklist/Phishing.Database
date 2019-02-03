@@ -3096,9 +3096,9 @@
             "state": "future"
         },
         "acct-secure-login-account.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "acctupdate.net": {
             "epoch": "1564185600",
@@ -3526,8 +3526,8 @@
             "state": "future"
         },
         "actgtexas.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "actinla.com": {
@@ -3746,8 +3746,8 @@
             "state": "future"
         },
         "adapttechs.com": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
             "state": "future"
         },
         "adb-ae.com": {
@@ -3828,7 +3828,7 @@
         "adela.it": {
             "epoch": "1549152000",
             "expiration_date": "03-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adelaidewholesaleliquor.com": {
             "epoch": "1573603200",
