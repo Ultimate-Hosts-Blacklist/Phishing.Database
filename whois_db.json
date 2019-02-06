@@ -9443,7 +9443,7 @@
         "appcarebd.com": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "appearancesredefined.com": {
             "epoch": "1550102400",
@@ -9776,8 +9776,8 @@
             "state": "future"
         },
         "applecares.co": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
             "state": "future"
         },
         "applecervices.com": {
