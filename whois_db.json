@@ -1523,7 +1523,7 @@
         "619-701-0397.com": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "6288kj.com": {
             "epoch": "1576454400",
@@ -1546,8 +1546,8 @@
             "state": "future"
         },
         "6me.us": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "6nergie.ca": {
