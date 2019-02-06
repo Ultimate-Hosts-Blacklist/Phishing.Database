@@ -31871,9 +31871,9 @@
             "state": "future"
         },
         "dadinfo.fr": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
-            "state": "past"
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
         },
         "dados-seguro.com": {
             "epoch": "1567036800",
@@ -32111,8 +32111,8 @@
             "state": "future"
         },
         "danielhankins.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "danieljfreedman.com": {
@@ -33238,7 +33238,7 @@
         "delta-flying.info": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "delta-intkey.bid": {
             "epoch": "1553299200",
