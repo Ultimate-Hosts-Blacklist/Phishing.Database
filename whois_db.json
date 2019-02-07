@@ -20083,7 +20083,7 @@
         "bourbonstreetdistillery.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "boutique-espacelc.com": {
             "epoch": "1579564800",
@@ -20458,7 +20458,7 @@
         "brianlehrer.info": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "brianlodis.com": {
             "epoch": "1553904000",
@@ -21091,9 +21091,9 @@
             "state": "future"
         },
         "buddysitalianice.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
-            "state": "past"
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
         },
         "budeshfloorings.com": {
             "epoch": "1576713600",
@@ -21146,8 +21146,8 @@
             "state": "future"
         },
         "buenosnet.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "buff.ly": {
