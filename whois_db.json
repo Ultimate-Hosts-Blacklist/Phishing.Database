@@ -23138,7 +23138,7 @@
         "cartao-dados.info": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "cartapressata.info": {
             "epoch": "1562716800",
@@ -23196,8 +23196,8 @@
             "state": "future"
         },
         "carzonselfdrive.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
             "state": "future"
         },
         "casa-grecia.com": {
