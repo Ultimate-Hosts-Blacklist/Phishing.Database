@@ -113683,7 +113683,7 @@
         "tcretail.com": {
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "tcsaglik.com": {
             "epoch": "1567123200",
@@ -114366,9 +114366,9 @@
             "state": "future"
         },
         "templatesbay.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
-            "state": "past"
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
+            "state": "future"
         },
         "templecard.com": {
             "epoch": "1628726400",
