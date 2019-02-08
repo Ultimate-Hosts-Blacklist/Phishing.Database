@@ -64623,7 +64623,7 @@
         "kacca.biz": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "kacca.co": {
             "epoch": "1555804800",
@@ -65401,8 +65401,8 @@
             "state": "future"
         },
         "kearnypaving.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
+            "epoch": "1707350400",
+            "expiration_date": "08-feb-2024",
             "state": "future"
         },
         "kech-servise.ru": {
