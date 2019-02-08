@@ -6018,7 +6018,7 @@
         "aldsigorta.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "alduri3.com": {
             "epoch": "1552780800",
@@ -6111,8 +6111,8 @@
             "state": "future"
         },
         "alertprotectionservice.com": {
-            "epoch": "1549584000",
-            "expiration_date": "08-feb-2019",
+            "epoch": "1581120000",
+            "expiration_date": "08-feb-2020",
             "state": "future"
         },
         "alerts-account-update-account-fullinfo-youraccount.com": {
