@@ -37763,7 +37763,7 @@
         "easymoza.bid": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "easymusiccenter.com": {
             "epoch": "1607904000",
@@ -38118,7 +38118,7 @@
         "ecosmeticscoupons.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "ecostructengg.com": {
             "epoch": "1577750400",
@@ -39121,9 +39121,9 @@
             "state": "future"
         },
         "eliorasoft.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
-            "state": "past"
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
         },
         "elitecredunion.com": {
             "epoch": "1555200000",
