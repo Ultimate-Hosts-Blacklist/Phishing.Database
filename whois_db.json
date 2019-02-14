@@ -30093,7 +30093,7 @@
         "craigslist-security.us": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "craigslist-verification.org": {
             "epoch": "1558569600",
@@ -30761,8 +30761,8 @@
             "state": "future"
         },
         "csgoagony.com": {
-            "epoch": "1550016000",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "csgoandlucky.com": {
