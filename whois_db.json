@@ -14598,7 +14598,7 @@
         "barcpb.com": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "bareboneswellness.com": {
             "epoch": "1555804800",
@@ -14941,9 +14941,9 @@
             "state": "future"
         },
         "batikoesmanh.com": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "batkivskahata.com": {
             "epoch": "1561680000",
@@ -15336,8 +15336,8 @@
             "state": "future"
         },
         "bcfskinclinic.com": {
-            "epoch": "1550016000",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "bcfsolutions.com": {
@@ -15353,7 +15353,7 @@
         "bcgraffiti.com": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "bcgroup-sa.com": {
             "epoch": "1575504000",
