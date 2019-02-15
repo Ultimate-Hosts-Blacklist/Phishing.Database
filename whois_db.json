@@ -81878,7 +81878,7 @@
         "myspacehello.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "mystarchers.com": {
             "epoch": "1627084800",
@@ -82886,8 +82886,8 @@
             "state": "future"
         },
         "ndch.net": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "ndefrance.com": {
@@ -83153,7 +83153,7 @@
         "nerdfighteria.net": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "nerdsat.com": {
             "epoch": "1579996800",
