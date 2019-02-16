@@ -105,8 +105,13 @@ def generate_extra_files():  # pylint: disable=too-many-branches
 
         if path.isfile(inactive):
             for element in Helpers.Regex(
-                Helpers.File(inactive).to_list(), r"^#"
+                Helpers.File(inactive).to_list(), r"^#|^$"
             ).not_matching_list():
+                print(
+                    "Checking eligibility of `{}` for introduction into `{}`...".format(
+                        element, Settings.volatile_list_file
+                    )
+                )
                 if (
                     element
                     and _is_special_pyfunceble(element)
@@ -123,6 +128,11 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                             ).lower()
                             == "active"
                         ):
+                            print(
+                                "Introduction of `{}` into `{}`".format(
+                                    element[4:], Settings.volatile_list_file
+                                )
+                            )
                             volatile_list.append(element[4:])
                         else:
                             if (
@@ -132,7 +142,18 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                                 ).lower()
                                 == "active"
                             ):
+                                print(
+                                    "Introduction of `{}` into `{}`".format(
+                                        "www.{}".format(element),
+                                        Settings.volatile_list_file,
+                                    )
+                                )
                                 volatile_list.append("www.{}".format(element))
+                    print(
+                        "Introduction of `{}` into `{}`".format(
+                            element, Settings.volatile_list_file
+                        )
+                    )
                     volatile_list.append(element)
 
         temp_clean_list = Helpers.List(temp_clean_list).format()
