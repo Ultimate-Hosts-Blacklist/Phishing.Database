@@ -86,7 +86,9 @@ def generate_extra_files():  # pylint: disable=too-many-branches
     """
 
     if bool(int(INFO["clean_original"])):  # pylint: disable=too-many-nested-blocks
-        clean_list = temp_clean_list = volatile_list = []
+        clean_list = []
+        temp_clean_list = []
+        volatile_list = []
 
         list_special_content = Helpers.Regex(
             Helpers.File(Settings.file_to_test).to_list(), r"ALL\s"
