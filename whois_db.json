@@ -33141,8 +33141,8 @@
             "state": "future"
         },
         "delhistationers.com": {
-            "epoch": "1550275200",
-            "expiration_date": "16-feb-2019",
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
             "state": "future"
         },
         "deliban.com": {
@@ -33531,8 +33531,8 @@
             "state": "future"
         },
         "dentalkang.com": {
-            "epoch": "1550188800",
-            "expiration_date": "15-feb-2019",
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
             "state": "future"
         },
         "dentallab-mekodent.com": {
@@ -33668,12 +33668,12 @@
         "deref-gmx-02.fr": {
             "epoch": "1550275200",
             "expiration_date": "16-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "deref-gmx.net": {
             "epoch": "1550275200",
             "expiration_date": "16-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "deref-mail.com": {
             "epoch": "1550534400",
