@@ -16,8 +16,8 @@ Contributors:
 """
 # pylint:disable=bad-continuation
 
+from PyFunceble import is_subdomain, syntax_check
 from PyFunceble import test as domain_availability_check
-from PyFunceble.check import Check
 from ultimate_hosts_blacklist_the_whitelist import clean_list_with_official_whitelist
 
 from update import Helpers, Settings, path, strftime
@@ -120,7 +120,7 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                     ).lower()
                     == "active"
                 ):
-                    if not Check(element).is_subdomain():
+                    if not is_subdomain(element):
                         if (
                             element.startswith("www.")
                             and domain_availability_check(
@@ -161,10 +161,7 @@ def generate_extra_files():  # pylint: disable=too-many-branches
 
         for element in temp_clean_list:
             if element:
-                if (
-                    not Check(element).is_subdomain()
-                    and Check(element).is_domain_valid()
-                ):
+                if not is_subdomain(element) and syntax_check(element):
                     if (
                         element.startswith("www.")
                         and domain_availability_check(
