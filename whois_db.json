@@ -39621,8 +39621,8 @@
             "state": "future"
         },
         "emcanidelo.net": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "emcelik.com": {
@@ -39683,7 +39683,7 @@
         "eminbisiklet.com": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "eminoztatli.com": {
             "epoch": "1583712000",
