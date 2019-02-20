@@ -80173,7 +80173,7 @@
         "musicdrive.am": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "musicgift.ru": {
             "epoch": "1571961600",
@@ -80781,9 +80781,9 @@
             "state": "future"
         },
         "mydhbonline.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
-            "state": "past"
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
         },
         "mydialand.com": {
             "epoch": "1560038400",
