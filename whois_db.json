@@ -621,8 +621,8 @@
             "state": "future"
         },
         "24-infopro.info": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "24-web.info": {
@@ -663,7 +663,7 @@
         "24frames.net": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "24hourcaregiver.info": {
             "epoch": "1567296000",
