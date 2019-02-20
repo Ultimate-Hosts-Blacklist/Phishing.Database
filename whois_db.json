@@ -54593,7 +54593,7 @@
         "hedulytics.com": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "heeraelectronics.com": {
             "epoch": "1707091200",
@@ -54948,7 +54948,7 @@
         "hetrick.me": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "heurica.dk": {
             "epoch": "1569801600",
@@ -55256,9 +55256,9 @@
             "state": "future"
         },
         "hiranthonpat.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
-            "state": "past"
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
         },
         "hiringbai.com": {
             "epoch": "1570579200",
@@ -55301,8 +55301,8 @@
             "state": "future"
         },
         "histriamarkets.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "hitamastha.net": {
