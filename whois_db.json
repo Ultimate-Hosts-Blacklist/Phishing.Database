@@ -7826,8 +7826,8 @@
             "state": "future"
         },
         "amid.su": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "amihackerproof.com": {
@@ -8533,7 +8533,7 @@
         "angolores.com": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "angowebsitess.info": {
             "epoch": "1561593600",
@@ -9148,7 +9148,7 @@
         "apachelink.com": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "apacheoilcompany.com": {
             "epoch": "1579305600",
