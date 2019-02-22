@@ -100668,7 +100668,7 @@
         "rybalkavspain.stream": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "rygwelski.com": {
             "epoch": "1557100800",
@@ -100678,11 +100678,11 @@
         "ryhannews.bid": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "rylandhills.org": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
             "state": "future"
         },
         "ryu159g.link": {
