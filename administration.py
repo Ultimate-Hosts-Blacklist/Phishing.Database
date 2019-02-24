@@ -83,7 +83,7 @@ def generate_extra_files():  # pylint: disable=too-many-branches,too-many-statem
             print("Stoping manipulation of `{}`.".format(active))
 
         if path.isfile(inactive):
-            print("Starting manipulation of `{}`.".format(active))
+            print("Starting manipulation of `{}`.".format(inactive))
 
             for element in Helpers.Regex(
                 Helpers.File(inactive).to_list(), REGEX_SPECIAL
@@ -95,7 +95,7 @@ def generate_extra_files():  # pylint: disable=too-many-branches,too-many-statem
                         else:
                             volatile_list.append("www.{}".format(element))
                     volatile_list.append(element)
-            print("Stoping manipulation of `{}`.".format(active))
+            print("Stoping manipulation of `{}`.".format(inactive))
 
         temp_clean_list = Helpers.List(temp_clean_list).format()
 
