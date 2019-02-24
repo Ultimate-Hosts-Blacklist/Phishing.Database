@@ -4228,7 +4228,7 @@
         "adventuresbhutan.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "advicetec.com": {
             "epoch": "1551484800",
@@ -4496,8 +4496,8 @@
             "state": "future"
         },
         "afincasmr.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "afly.co": {
