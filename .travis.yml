@@ -1,41 +1,40 @@
-env:
-  global:
-    - secure: DXa6OSCVFAbp6hOSlqYG9bisnnNGZFU1Ab5Y4P/L7giZH9LstfbnnpewFg7zrLg+X810O3dOSmixaQVikYg11JASsj8CEgYuc2AKRWA+3AmmCkCVXo9Cedlcknjc8D0rBAoSmqSg+F3uyJmzb44zPLQuPFxKVQyR2fxiyq1avGRQ6MgjuRz7UioXQ9XE2wDv8AOXnBNKBoB8E6gpIq2wzDOquzjQdicdexwhc0znOsT63rl17ekIU2LhMPnPGCcGYkXT8LZlW744ZKHgaou3G7M6+/53RLz0+KmUl47DmDbsrvsueBOqftKw/aEFtU603XIJurxxzLxRboFTkYezIhfaI5FogaD2IAS2E2XNTb6jxkkERXJ9sEik6SQAxNgpDkQ3j0mlZAYQyMg43w579fR1EdddU9OtV/66/RhieYhtDLG8Jyj6lF7IYEyMhlThEpRUjNP//bH2ftnOp54+3exroVeMd6MXE7oSsJZdjdGvhnXXd4J2bFHunOzvFnQhm33ba81BRI2AKkTSK1/2ktbAESTcgJeXTrvkNMxdJSY9RdfjIflNwgDJ3GEV09Ezs0wTNUdwCEDf+lb75MgCYWzBz6DD68WGsKBNz9G6AxY/bKTq31cAJm06QVGApte+rpqzIto9eCUkixl2HB0Pm1PdJ34YxBMrFHPuM1jcyeY=
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Phishing.Database
-    - GIT_BRANCH: master
-    - UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
-    - ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
-
-dist: xenial
-sudo: required
-language: python
-
-python:
-  - "3.7"
-
-matrix:
-  fast_finish: true
-
-cache:
-  - pip
-
 addons:
-  apt:
-    packages:
-      - dos2unix
-
+    apt:
+        packages:
+        - dos2unix
+cache:
+- pip
+dist: xenial
+env:
+    global:
+    -   secure: DXa6OSCVFAbp6hOSlqYG9bisnnNGZFU1Ab5Y4P/L7giZH9LstfbnnpewFg7zrLg+X810O3dOSmixaQVikYg11JASsj8CEgYuc2AKRWA+3AmmCkCVXo9Cedlcknjc8D0rBAoSmqSg+F3uyJmzb44zPLQuPFxKVQyR2fxiyq1avGRQ6MgjuRz7UioXQ9XE2wDv8AOXnBNKBoB8E6gpIq2wzDOquzjQdicdexwhc0znOsT63rl17ekIU2LhMPnPGCcGYkXT8LZlW744ZKHgaou3G7M6+/53RLz0+KmUl47DmDbsrvsueBOqftKw/aEFtU603XIJurxxzLxRboFTkYezIhfaI5FogaD2IAS2E2XNTb6jxkkERXJ9sEik6SQAxNgpDkQ3j0mlZAYQyMg43w579fR1EdddU9OtV/66/RhieYhtDLG8Jyj6lF7IYEyMhlThEpRUjNP//bH2ftnOp54+3exroVeMd6MXE7oSsJZdjdGvhnXXd4J2bFHunOzvFnQhm33ba81BRI2AKkTSK1/2ktbAESTcgJeXTrvkNMxdJSY9RdfjIflNwgDJ3GEV09Ezs0wTNUdwCEDf+lb75MgCYWzBz6DD68WGsKBNz9G6AxY/bKTq31cAJm06QVGApte+rpqzIto9eCUkixl2HB0Pm1PdJ34YxBMrFHPuM1jcyeY=
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Phishing.Database
+    -   GIT_BRANCH: master
+    -   UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
+    -   ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
 install:
-  - pip3 install --upgrade pip
-  - pip3 install requests
-  - pip3 install ultimate_hosts_blacklist_the_whitelist
-  - if [[ ! -f .admin ]]; then wget "${UPDATE_LOCATION}" -o /dev/null -O update.py && chmod +x update.py; else echo "No need to download/update update.py."; fi
-  - if [[ ! -f .admin ]]; then wget "${ADMINISTATION_LOCATION}" -o /dev/null -O administration.py && chmod +x administration.py; else echo "No need to download/update administration.py."; fi
-
-script:
-  - python3 ./update.py
-
+- pip3 install --upgrade pip
+- pip3 install requests
+- pip3 install ultimate-hosts-blacklist-whitelist
+- if [[ ! -f .admin ]]; then wget "${UPDATE_LOCATION}" -o /dev/null -O update.py &&
+    chmod +x update.py; else echo "No need to download/update update.py."; fi
+- if [[ ! -f .admin ]]; then wget "${ADMINISTATION_LOCATION}" -o /dev/null -O administration.py
+    && chmod +x administration.py; else echo "No need to download/update administration.py.";
+    fi
+language: python
+matrix:
+    fast_finish: true
 notifications:
-  on_success: change
-  on_failure: always
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+        - mitchellkrogza+ultimatehostsblacklist@gmail.com
+python:
+- '3.7'
+script:
+- python3 ./update.py
+sudo: required
