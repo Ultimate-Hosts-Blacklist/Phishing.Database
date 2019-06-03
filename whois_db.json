@@ -469,9 +469,19 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "eth2018.net": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "future"
+    },
     "ethercontest.com": {
         "epoch": 1576022400,
         "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "evangelinehuse.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "evictionlawyer.ca": {
@@ -519,6 +529,11 @@
         "expiration_date": "17-oct-2019",
         "state": "future"
     },
+    "filedorms.com": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "filndenvx.com": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
@@ -557,6 +572,11 @@
     "freedomcreators.co": {
         "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
+        "state": "future"
+    },
+    "fudidemo.com": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "funcompetitions.ru": {
@@ -609,6 +629,11 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "getlikesfree.com": {
+        "epoch": 1637452800,
+        "expiration_date": "21-nov-2021",
+        "state": "future"
+    },
     "getsuccesshub.com": {
         "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
@@ -647,6 +672,11 @@
     "girlstreat.com": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "giversplatform.co.za": {
+        "epoch": 1559779200,
+        "expiration_date": "06-jun-2019",
         "state": "future"
     },
     "givetodem.com": {
