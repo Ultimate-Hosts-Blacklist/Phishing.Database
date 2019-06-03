@@ -544,6 +544,11 @@
         "expiration_date": "22-jun-2019",
         "state": "future"
     },
+    "getyoureths.com": {
+        "epoch": 1560902400,
+        "expiration_date": "19-jun-2019",
+        "state": "future"
+    },
     "gfntech.com": {
         "epoch": 1567036800,
         "expiration_date": "29-aug-2019",
@@ -567,6 +572,11 @@
     "givetodem.com": {
         "epoch": 1579478400,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "govuk-dvla-refunds.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "gpre-inc.com": {
