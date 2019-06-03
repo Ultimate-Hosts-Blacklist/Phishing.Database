@@ -729,9 +729,19 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "kmhime.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
     "kopewithenglish.com": {
         "epoch": 1561075200,
         "expiration_date": "21-jun-2019",
+        "state": "future"
+    },
+    "krenovator.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "kubud.pl": {
