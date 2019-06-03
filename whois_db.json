@@ -714,6 +714,11 @@
         "expiration_date": "30-jul-2022",
         "state": "future"
     },
+    "kingovbers.com": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "kisishamkita.com": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
@@ -724,6 +729,11 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "kopewithenglish.com": {
+        "epoch": 1561075200,
+        "expiration_date": "21-jun-2019",
+        "state": "future"
+    },
     "kubud.pl": {
         "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
@@ -732,6 +742,11 @@
     "kunden-pruefung-management-systemcheck-12938-proof.com": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "kurierjas.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "lachedewich.com": {
