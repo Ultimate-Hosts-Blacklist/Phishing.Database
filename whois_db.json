@@ -1109,10 +1109,20 @@
         "expiration_date": "16-oct-2019",
         "state": "future"
     },
+    "hkneuq.com": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "hmblawassetrecovery.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
         "state": "future"
+    },
+    "hmpets.cl": {
+        "epoch": 1557273600,
+        "expiration_date": "08-may-2019",
+        "state": "past"
     },
     "hoangmaihanoi.com": {
         "epoch": 1585008000,
