@@ -509,6 +509,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "exchengepro.ru": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "extrofertas.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
@@ -522,6 +527,11 @@
     "fayolahijab.com": {
         "epoch": 1561248000,
         "expiration_date": "23-jun-2019",
+        "state": "future"
+    },
+    "fedsos-vodafone.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "fedsso-vodafone.com": {
