@@ -479,6 +479,11 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "eropennes.com": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "eslranking.com": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
@@ -527,6 +532,11 @@
     "examsportalhub.com": {
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "exchangemsssrv.bid": {
+        "epoch": 1560038400,
+        "expiration_date": "09-jun-2019",
         "state": "future"
     },
     "exchengepro.ru": {
@@ -692,6 +702,11 @@
     "fotook.ru": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
+        "state": "future"
+    },
+    "fouchftezoezazaa.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "fr-service-paypal.info": {
