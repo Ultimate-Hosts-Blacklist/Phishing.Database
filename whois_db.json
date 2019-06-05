@@ -1259,6 +1259,11 @@
         "expiration_date": "08-sep-2019",
         "state": "future"
     },
+    "icloudsupports.info": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
     "iclould-suporte.com": {
         "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
@@ -1274,9 +1279,19 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "idax.market": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "igtcoaching.com": {
         "epoch": 1563926400,
         "expiration_date": "24-jul-2019",
+        "state": "future"
+    },
+    "igualdadenovidade.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "ilogix.cl": {
@@ -1287,6 +1302,11 @@
     "immobilatorre.it": {
         "epoch": 1586822400,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "indadax.com": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "independent-warcompany.com": {
