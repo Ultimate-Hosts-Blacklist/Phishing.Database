@@ -429,6 +429,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "f-delivery.ru": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "farnoush.com": {
         "epoch": 1652486400,
         "expiration_date": "14-may-2022",
@@ -442,6 +447,11 @@
     "fbrent.info": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "fedsos-vodafone.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "fedsso-vodafone.com": {
@@ -549,6 +559,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "gamebattleground.net": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "future"
+    },
     "gamexrolls.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
@@ -597,6 +612,11 @@
     "genermok.com": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "gestionok.cl": {
+        "epoch": 1622332800,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "get-gift-stellar.org": {
