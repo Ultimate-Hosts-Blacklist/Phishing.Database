@@ -1289,6 +1289,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "huiad-online.com.pl": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "hustleandhabits.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -1874,12 +1879,7 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
-    "mujhedorkoikhinchy.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "future"
-    },
-    "multiplynewengland.com": {
+    "mujhedorkoikhinchy.com": {: {
         "epoch": 1579737600,
         "expiration_date": "23-jan-2020",
         "state": "future"
@@ -2188,6 +2188,11 @@
         "epoch": 1701820800,
         "expiration_date": "06-dec-2023",
         "state": "future"
+    },
+    "se-connecter.net": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
+        "state": ": "future"
     },
     "se-connecter.net": {
         "epoch": 1565568000,
