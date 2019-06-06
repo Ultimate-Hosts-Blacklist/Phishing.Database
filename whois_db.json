@@ -664,9 +664,29 @@
         "expiration_date": "08-sep-2019",
         "state": "future"
     },
+    "icloud-signs-io.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "icscontrolecheck.info": {
         "epoch": 1585785600,
         "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "id-apple-ids.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "idiveboat.com": {
+        "epoch": 1567641600,
+        "expiration_date": "05-sep-2019",
+        "state": "future"
+    },
+    "iespbd.com": {
+        "epoch": 1675641600,
+        "expiration_date": "06-feb-2023",
         "state": "future"
     },
     "igualdadenovidade.com": {
