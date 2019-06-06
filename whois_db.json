@@ -659,6 +659,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "hmpets.cl": {
+        "epoch": 1557273600,
+        "expiration_date": "08-may-2019",
+        "state": "past"
+    },
     "holdforths.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
@@ -697,6 +702,11 @@
     "hsbc-uk-verifications.com": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "hub-vodafone.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "hustlebudgetsave.com": {
@@ -749,6 +759,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "id-appl-id.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "id-apple-ids.com": {
         "epoch": 1584403200,
         "expiration_date": "17-mar-2020",
@@ -764,6 +779,11 @@
         "expiration_date": "05-sep-2019",
         "state": "future"
     },
+    "idjtvx.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "iespbd.com": {
         "epoch": 1675641600,
         "expiration_date": "06-feb-2023",
@@ -772,6 +792,11 @@
     "igualdadenovidade.com": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "impratoralsahra.com": {
+        "epoch": 1562457600,
+        "expiration_date": "07-jul-2019",
         "state": "future"
     },
     "inasbaisns.com": {
