@@ -374,6 +374,11 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "eplatnosc.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
     "eplsl.org": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
@@ -467,6 +472,11 @@
     "exchengepro.ru": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "exlusivesdeportail.com": {
+        "epoch": 1563840000,
+        "expiration_date": "23-jul-2019",
         "state": "future"
     },
     "expressinganemotion.info": {
