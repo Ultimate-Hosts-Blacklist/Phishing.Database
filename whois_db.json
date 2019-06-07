@@ -364,6 +364,11 @@
         "expiration_date": "01-jan-2021",
         "state": "future"
     },
+    "empresarialnegocios.com": {
+        "epoch": 1560902400,
+        "expiration_date": "19-jun-2019",
+        "state": "future"
+    },
     "epayment-24.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -477,6 +482,11 @@
     "exlusivesdeportail.com": {
         "epoch": 1563840000,
         "expiration_date": "23-jul-2019",
+        "state": "future"
+    },
+    "exodus-wallet.info": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "expressinganemotion.info": {
