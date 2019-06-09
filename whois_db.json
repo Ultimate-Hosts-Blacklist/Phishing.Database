@@ -229,6 +229,11 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "connecting-ama-zon.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "constantinopleplus.io": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
@@ -287,6 +292,11 @@
     "credit64.com": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "credito-itau.com": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "crispyer.co.kr": {
