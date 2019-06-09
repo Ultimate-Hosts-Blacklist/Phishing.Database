@@ -1,6 +1,8 @@
 {
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
+    "last_autosave_datetime": "Sun Jun  9 14:27:09 2019",
+    "last_autosave_epoch": 1560090429.5788,
     "last_test": 1557522597,
     "name": "Phishing.Database",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt"
