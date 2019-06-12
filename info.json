@@ -1,17 +1,17 @@
 {
     "current_stats": {
-        "builds": 42,
+        "builds": 43,
         "counter": {
-            "down": 5472,
+            "down": 5574,
             "invalid": 0,
-            "tested": 59505,
-            "up": 54033
+            "tested": 60817,
+            "up": 55243
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Wed Jun 12 00:42:25 2019",
-    "last_autosave_epoch": 1560300145.801329,
+    "last_autosave_datetime": "Wed Jun 12 01:03:23 2019",
+    "last_autosave_epoch": 1560301403.812161,
     "name": "Phishing.Database",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
     "start_datetime": "Tue Jun 11 12:23:52 2019",
