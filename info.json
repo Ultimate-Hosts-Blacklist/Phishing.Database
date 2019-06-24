@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 520,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Mon Jun 24 18:09:10 2019",
+    "end_epoch": 1561399750.286991,
+    "last_autosave_datetime": "Mon Jun 24 17:54:11 2019",
+    "last_autosave_epoch": 1561398851.483195,
+    "name": "Phishing.Database",
+    "previous_stats": {
+        "builds": 521,
+        "clean.list": 63403,
         "counter": {
             "down": 7640,
             "invalid": 6,
             "tested": 71049,
             "up": 63403
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Sat Jun 15 21:14:57 2019",
-    "end_epoch": 1560633297.334929,
-    "last_autosave_datetime": "Mon Jun 24 17:54:11 2019",
-    "last_autosave_epoch": 1561398851.483195,
-    "name": "Phishing.Database",
-    "previous_stats": {
-        "builds": 38,
-        "clean.list": 63385,
-        "counter": {
-            "down": 6644,
-            "invalid": 0,
-            "tested": 70029,
-            "up": 63385
         },
-        "domains.list": 70029,
-        "volatile.list": 63391,
-        "whitelisted.list": 63385
+        "domains.list": 71049,
+        "volatile.list": 63411,
+        "whitelisted.list": 63403
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
     "start_datetime": "Mon Jun 17 12:24:27 2019",
