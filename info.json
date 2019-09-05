@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 459,
+        "builds": 460,
         "counter": {
             "down": 12376,
             "invalid": 10,
@@ -12,8 +12,8 @@
     "days_until_next_test": 2,
     "end_datetime": "Fri Aug 30 02:07:07 2019",
     "end_epoch": 1567130827.796111,
-    "last_autosave_datetime": "Thu Sep  5 16:30:45 2019",
-    "last_autosave_epoch": 1567701045.609535,
+    "last_autosave_datetime": "Thu Sep  5 16:50:15 2019",
+    "last_autosave_epoch": 1567702215.097544,
     "name": "Phishing.Database",
     "previous_stats": {
         "builds": 56,
