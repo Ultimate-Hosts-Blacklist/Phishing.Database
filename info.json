@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 298,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Thu Sep 19 02:35:14 2019",
+    "end_epoch": 1568860514.441419,
+    "last_autosave_datetime": "Thu Sep 19 02:21:53 2019",
+    "last_autosave_epoch": 1568859713.692202,
+    "name": "Phishing.Database",
+    "previous_stats": {
+        "builds": 299,
         "counter": {
             "down": 13257,
             "invalid": 12,
             "tested": 101850,
             "up": 88581
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Sat Sep 14 09:21:53 2019",
-    "end_epoch": 1568452913.066207,
-    "last_autosave_datetime": "Thu Sep 19 02:21:53 2019",
-    "last_autosave_epoch": 1568859713.692202,
-    "name": "Phishing.Database",
-    "previous_stats": {
-        "builds": 51,
-        "counter": {
-            "down": 12982,
-            "invalid": 4,
-            "tested": 101471,
-            "up": 88485
         },
         "volatile.list": 89759,
         "whitelisted.list": 89727
