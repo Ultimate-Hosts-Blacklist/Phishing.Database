@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 187,
+        "builds": 188,
         "counter": {
-            "down": 11367,
-            "invalid": 1417,
-            "tested": 60224,
-            "up": 47440
+            "down": 11620,
+            "invalid": 1418,
+            "tested": 61593,
+            "up": 48555
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Tue Oct  1 18:21:12 2019",
     "end_epoch": 1569954072.361907,
-    "last_autosave_datetime": "Fri Oct 18 08:55:43 2019",
-    "last_autosave_epoch": 1571388943.270982,
+    "last_autosave_datetime": "Fri Oct 18 09:10:04 2019",
+    "last_autosave_epoch": 1571389804.997659,
     "name": "Phishing.Database",
     "previous_stats": {
         "builds": 184,
