@@ -997,7 +997,7 @@
     "1sukjo2awigmeojvashk1scze4cyxjs0ide12vz2.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "1swerese.com": {
         "epoch": 1612742400.0,
@@ -1525,9 +1525,9 @@
         "state": "future"
     },
     "2sfv.pro": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
-        "state": "past"
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
     },
     "2sharehk.com": {
         "epoch": 1593302400.0,
@@ -1537,7 +1537,7 @@
     "2sukjo2awigmeojvashk1scze4cyxjs0ide12vz2.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "2support-activation-nab.com": {
         "epoch": 1593043200.0,
@@ -1565,9 +1565,9 @@
         "state": "future"
     },
     "2vrs.pro": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
-        "state": "past"
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
     },
     "2x2change.top": {
         "epoch": 1598572800.0,
