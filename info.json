@@ -34,6 +34,9 @@
         "whitelisted.list": 107024
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+    "link": "https://github.com/mitchellkrogza/Phishing.Database",
+    "issue_link": "https://github.com/mitchellkrogza/Phishing.Database/issues/new/choose",
+    "description": "Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.",
     "start_datetime": "2020-03-03T16:22:33.349054",
     "start_epoch": 1578047899.797145
 }
