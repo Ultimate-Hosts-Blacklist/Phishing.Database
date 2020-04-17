@@ -312,7 +312,7 @@
     "1-888probate.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "1-online.top": {
         "epoch": 1597795200.0,
@@ -897,7 +897,7 @@
     "1pay-pal1-t3am-conf1rm.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "1playcoin.com": {
         "epoch": 1599868800.0,
