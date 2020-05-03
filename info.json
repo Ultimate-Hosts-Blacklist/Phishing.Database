@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 2570,
+        "builds": 2571,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -10,8 +10,8 @@
             "up": 0,
             "valid": 0
         },
-        "volatile.list": 107930,
-        "whitelisted.list": 107024
+        "volatile.list": 107928,
+        "whitelisted.list": 107022
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
