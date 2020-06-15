@@ -156,6 +156,7 @@ print_dots: false
 quiet: true
 reputation: false
 seconds_before_http_timeout: 6
+shadow_file: false
 share_logs: true
 show_execution_time: false
 show_percentage: true
