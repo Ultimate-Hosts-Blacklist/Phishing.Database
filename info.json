@@ -1,40 +1,18 @@
 {
-    "current_stats": {
-        "builds": 3466,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 0,
-        "whitelisted.list": 107013
-    },
     "currently_under_test": true,
     "days_until_next_test": 2,
     "description": "Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.",
     "end_datetime": "2020-03-03T16:22:33.344315",
     "end_epoch": 1577893939.444775,
     "issue_link": "https://github.com/mitchellkrogza/Phishing.Database/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T16:22:33.344329",
-    "last_autosave_epoch": 1583245924.010371,
     "link": "https://github.com/mitchellkrogza/Phishing.Database",
     "name": "Phishing.Database",
-    "previous_stats": {
-        "builds": 1490,
-        "clean.list": 107024,
-        "counter": {
-            "down": 18595,
-            "invalid": 2,
-            "tested": 125620,
-            "up": 107023
-        },
-        "domains.list": 125620,
-        "volatile.list": 107930,
-        "whitelisted.list": 107024
+    "previous_end_datetime": "2020-06-30T18:28:21.094935",
+    "previous_end_epoch": 1593541701.094939,
+    "previous_start_datetime": "2020-06-30T18:28:21.094922",
+    "previous_start_epoch": 1593541701.094938,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
     "start_datetime": "2020-03-03T16:22:33.349054",
