@@ -382,6 +382,7 @@
     ],
     "bh": [
         "com.bh",
+        "edu.bh",
         "gov.bh",
         "net.bh",
         "org.bh"
@@ -858,7 +859,6 @@
         "com.cn",
         "compute.amazonaws.com.cn",
         "cq.cn",
-        "edu.bh",
         "edu.cn",
         "elb.amazonaws.com.cn",
         "fj.cn",
@@ -1144,6 +1144,7 @@
         "hotelwithflight.com",
         "hu.com",
         "iamallama.com",
+        "idnblogger.com",
         "impertrix.com",
         "impertrixcdn.com",
         "indowapblog.com",
@@ -4605,6 +4606,7 @@
         "org.kn"
     ],
     "kp": [
+        "com.kp",
         "edu.kp",
         "gov.kp",
         "org.kp",
@@ -5084,7 +5086,6 @@
         "coloradoplateau.museum",
         "columbia.museum",
         "columbus.museum",
-        "com.kp",
         "communication.museum",
         "communications.museum",
         "community.museum",
@@ -6110,6 +6111,7 @@
         "hole.no",
         "holmestrand.no",
         "holtalen.no",
+        "holtålen.no",
         "honefoss.no",
         "hornindal.no",
         "horten.no",
@@ -6423,7 +6425,6 @@
         "skånland.no",
         "slattum.no",
         "smola.no",
-        "smøla.no",
         "snaase.no",
         "snasa.no",
         "snillfjord.no",
@@ -6710,7 +6711,6 @@
         "xn--sknland-fxa.no",
         "xn--slat-5na.no",
         "xn--slt-elab.no",
-        "xn--smla-hra.no",
         "xn--smna-gra.no",
         "xn--snase-nra.no",
         "xn--sndre-land-0cb.no",
@@ -6788,7 +6788,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "idnblogger.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -6811,7 +6810,8 @@
         "org.nz",
         "parliament.nz",
         "school.nz",
-        "xn--mori-qsa.nz"
+        "xn--mori-qsa.nz",
+        "xn--smla-hra.no"
     ],
     "om": [
         "co.om",
