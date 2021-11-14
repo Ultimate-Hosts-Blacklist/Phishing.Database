@@ -2712,7 +2712,6 @@
         "jm"
     ],
     "jo": [
-        "com.jo",
         "edu.jo",
         "gov.jo",
         "mil.jo",
@@ -2860,6 +2859,7 @@
         "chuo.tokyo.jp",
         "chuo.yamanashi.jp",
         "co.jp",
+        "com.jo",
         "daigo.ibaraki.jp",
         "daisen.akita.jp",
         "daito.osaka.jp",
@@ -6590,6 +6590,7 @@
         "várggát.no",
         "vågan.no",
         "vågsøy.no",
+        "vågå.no",
         "våler.hedmark.no",
         "våler.østfold.no",
         "værøy.no",
@@ -6754,6 +6755,7 @@
         "xn--vard-jra.no",
         "xn--vegrshei-c0a.no",
         "xn--vestvgy-ixa6o.no",
+        "xn--vg-yiab.no",
         "xn--vgan-qoa.no",
         "xn--vgsy-qoa0j.no",
         "xn--vler-qoa.hedmark.no",
@@ -7704,8 +7706,7 @@
         "gouv.sn",
         "org.sn",
         "perso.sn",
-        "univ.sn",
-        "xn--vg-yiab.no"
+        "univ.sn"
     ],
     "so": [
         "com.so",
