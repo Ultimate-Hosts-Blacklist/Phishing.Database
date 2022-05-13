@@ -1018,6 +1018,7 @@
         "boutir.com",
         "bplaced.com",
         "br.com",
+        "builder.code.com",
         "builtwithdark.com",
         "ca-central-1.elasticbeanstalk.com",
         "cafjs.com",
@@ -1048,6 +1049,7 @@
         "de.com",
         "demo.datadetect.com",
         "demo.jelastic.com",
+        "dev-builder.code.com",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
@@ -1426,6 +1428,7 @@
         "sphinx.mythic-beasts.com",
         "stackhero-network.com",
         "static.observableusercontent.com",
+        "stg-builder.code.com",
         "stufftoread.com",
         "teaches-yoga.com",
         "temp-dns.com",
@@ -3029,6 +3032,7 @@
         "girly.jp",
         "gloomy.jp",
         "go.jp",
+        "gob.sv",
         "gobo.wakayama.jp",
         "godo.gifu.jp",
         "gojome.akita.jp",
@@ -7494,6 +7498,7 @@
         "co.place"
     ],
     "pm": [
+        "name.pm",
         "own.pm"
     ],
     "pn": [
@@ -8017,6 +8022,9 @@
     ],
     "technology": [
         "co.technology"
+    ],
+    "tf": [
+        "sch.tf"
     ],
     "th": [
         "ac.th",
@@ -8656,6 +8664,10 @@
         "me.vu",
         "net.vu",
         "org.vu"
+    ],
+    "wf": [
+        "biz.wf",
+        "sch.wf"
     ],
     "win": [
         "that.win"
