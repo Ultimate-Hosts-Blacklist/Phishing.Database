@@ -2173,6 +2173,7 @@
         "gov.in",
         "ind.in",
         "mil.in",
+        "net.in",
         "nic.in",
         "org.in",
         "res.in",
@@ -3843,7 +3844,6 @@
         "ne.jp",
         "nemuro.hokkaido.jp",
         "nerima.tokyo.jp",
-        "net.in",
         "neyagawa.osaka.jp",
         "nichinan.miyazaki.jp",
         "nichinan.tottori.jp",
@@ -5605,6 +5605,7 @@
         "starnberg.museum",
         "state.museum",
         "stateofdelaware.museum",
+        "station.museum",
         "steam.museum",
         "steiermark.museum",
         "stjohn.museum",
@@ -6631,7 +6632,6 @@
         "stange.no",
         "stat.no",
         "stathelle.no",
-        "station.museum",
         "stavanger.no",
         "stavern.no",
         "steigen.no",
@@ -8691,10 +8691,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--90a3ac": [
-        "kira.aichi.jp",
-        "xn--o1ach.xn--90a3ac"
     ],
     "xyz": [
         "blogsite.xyz",
