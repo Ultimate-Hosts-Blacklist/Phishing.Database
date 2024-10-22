@@ -6402,7 +6402,6 @@
         "barum.no",
         "batsfjord.no",
         "bearalvahki.no",
-        "bearalváhki.no",
         "beardu.no",
         "beiarn.no",
         "berg.no",
@@ -8043,7 +8042,6 @@
         "database.run",
         "development.run",
         "express.val.run",
-        "hs.run",
         "migration.run",
         "onporter.run",
         "ravendb.run",
@@ -9168,7 +9166,6 @@
     ],
     "zone": [
         "cloud66.zone",
-        "hs.zone",
         "lima.zone",
         "stackit.zone",
         "triton.zone"
