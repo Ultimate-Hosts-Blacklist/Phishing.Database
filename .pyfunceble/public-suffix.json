@@ -166,6 +166,7 @@
         "aiven.app",
         "beget.app",
         "bookonline.app",
+        "botdash.app",
         "clerk.app",
         "clerkstage.app",
         "csb.app",
@@ -2333,8 +2334,8 @@
         "archer.replit.dev",
         "barsy.dev",
         "bones.replit.dev",
+        "botdash.dev",
         "canary.replit.dev",
-        "curv.dev",
         "d.crm.dev",
         "deno-staging.dev",
         "deno.dev",
@@ -2647,6 +2648,7 @@
         "school.ge"
     ],
     "gg": [
+        "botdash.gg",
         "co.gg",
         "daemon.panel.gg",
         "kaas.gg",
@@ -2877,7 +2879,6 @@
         "net.id",
         "or.id",
         "ponpes.id",
-        "rss.my.id",
         "sch.id",
         "web.id"
     ],
@@ -6039,6 +6040,7 @@
         "blob.core.windows.net",
         "blogdns.net",
         "boomla.net",
+        "botdash.net",
         "bounceme.net",
         "bplaced.net",
         "broke-it.net",
@@ -7135,6 +7137,7 @@
         "xn--osyro-wua.no",
         "xn--porsgu-sta26f.no",
         "xn--rady-ira.no",
+        "xn--rdal-poa.no",
         "xn--rde-ula.no",
         "xn--rdy-0nab.no",
         "xn--rennesy-v1a.no",
@@ -7542,7 +7545,6 @@
         "gob.pk",
         "gog.pk",
         "gok.pk",
-        "gon.pk",
         "gop.pk",
         "gos.pk",
         "gov.pk",
@@ -8100,6 +8102,7 @@
         "org.sg"
     ],
     "sh": [
+        "botda.sh",
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
@@ -8169,9 +8172,6 @@
         "net.so",
         "org.so",
         "surveys.so"
-    ],
-    "solutions": [
-        "diher.solutions"
     ],
     "space": [
         "app-ionos.space",
@@ -9023,6 +9023,7 @@
         "org.ws"
     ],
     "xyz": [
+        "botdash.xyz",
         "telebit.xyz"
     ],
     "ye": [
