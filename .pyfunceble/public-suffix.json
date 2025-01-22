@@ -4503,6 +4503,7 @@
         "minobu.yamanashi.jp",
         "minoh.osaka.jp",
         "minokamo.gifu.jp",
+        "minowa.nagano.jp",
         "mints.ne.jp",
         "misaki.okayama.jp",
         "misaki.osaka.jp",
@@ -5877,12 +5878,18 @@
         "org.mk"
     ],
     "ml": [
+        "ac.ml",
+        "art.ml",
+        "asso.ml",
         "com.ml",
         "edu.ml",
         "gouv.ml",
         "gov.ml",
+        "info.ml",
+        "inst.ml",
         "net.ml",
         "org.ml",
+        "pr.ml",
         "presse.ml"
     ],
     "mm": [
@@ -7256,7 +7263,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "minowa.nagano.jp",
         "shacknet.nu"
     ],
     "nz": [
