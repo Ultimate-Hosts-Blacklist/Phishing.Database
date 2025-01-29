@@ -2341,7 +2341,6 @@
     ],
     "dev": [
         "12chars.dev",
-        "app.os.stg.fedoraproject.org",
         "archer.replit.dev",
         "barsy.dev",
         "bones.replit.dev",
@@ -2634,7 +2633,6 @@
         "pharmacien.fr",
         "port.fr",
         "prd.fr",
-        "radom.pl",
         "tm.fr",
         "veterinaire.fr",
         "ynh.fr"
@@ -7320,6 +7318,7 @@
         "al.eu.org",
         "altervista.org",
         "app.os.fedoraproject.org",
+        "app.os.stg.fedoraproject.org",
         "asso.eu.org",
         "at.eu.org",
         "au.eu.org",
@@ -7722,6 +7721,7 @@
         "psse.gov.pl",
         "pulawy.pl",
         "pup.gov.pl",
+        "radom.pl",
         "rawa-maz.pl",
         "realestate.pl",
         "rel.pl",
