@@ -4735,7 +4735,6 @@
         "noshiro.akita.jp",
         "noto.ishikawa.jp",
         "notogawa.shiga.jp",
-        "nozawaonsen.nagano.jp",
         "numata.gunma.jp",
         "numata.hokkaido.jp",
         "numazu.shizuoka.jp",
@@ -5180,6 +5179,7 @@
         "tamakawa.fukushima.jp",
         "tamaki.mie.jp",
         "tamamura.gunma.jp",
+        "tamano.okayama.jp",
         "tamatsukuri.ibaraki.jp",
         "tamayu.shimane.jp",
         "tamba.hyogo.jp",
@@ -5887,8 +5887,7 @@
         "inf.mk",
         "name.mk",
         "net.mk",
-        "org.mk",
-        "tamano.okayama.jp"
+        "org.mk"
     ],
     "ml": [
         "ac.ml",
@@ -7307,6 +7306,7 @@
         "med.om",
         "museum.om",
         "net.om",
+        "nozawaonsen.nagano.jp",
         "org.om",
         "pro.om"
     ],
