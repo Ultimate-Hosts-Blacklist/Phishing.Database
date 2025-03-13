@@ -342,7 +342,6 @@
         "notebook.ap-south-1.sagemaker.aws",
         "notebook.ap-south-2.sagemaker.aws",
         "notebook.ap-southeast-1.sagemaker.aws",
-        "notebook.ap-southeast-2.sagemaker.aws",
         "notebook.ap-southeast-3.sagemaker.aws",
         "notebook.ap-southeast-4.sagemaker.aws",
         "notebook.ca-central-1.sagemaker.aws",
@@ -5649,6 +5648,7 @@
     ],
     "kr": [
         "ac.kr",
+        "ai.kr",
         "busan.kr",
         "chungbuk.kr",
         "chungnam.kr",
@@ -5664,10 +5664,13 @@
         "gyeongnam.kr",
         "hs.kr",
         "incheon.kr",
+        "io.kr",
+        "it.kr",
         "jeju.kr",
         "jeonbuk.kr",
         "jeonnam.kr",
         "kg.kr",
+        "me.kr",
         "mil.kr",
         "ms.kr",
         "ne.kr",
@@ -7315,6 +7318,7 @@
     ],
     "one": [
         "kin.one",
+        "notebook.ap-southeast-2.sagemaker.aws",
         "service.one"
     ],
     "ong": [
