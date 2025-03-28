@@ -2706,6 +2706,9 @@
         "net.gl",
         "org.gl"
     ],
+    "global": [
+        "appwrite.global"
+    ],
     "gn": [
         "ac.gn",
         "com.gn",
@@ -5508,7 +5511,6 @@
         "yonaguni.okinawa.jp",
         "yonezawa.yamagata.jp",
         "yono.saitama.jp",
-        "yorii.saitama.jp",
         "yoro.gifu.jp",
         "yoshida.saitama.jp",
         "yoshida.shizuoka.jp",
@@ -5747,6 +5749,8 @@
         "dweb.link",
         "inbrowser.link",
         "ipfs.nftstorage.link",
+        "ipfs.storacha.link",
+        "ipfs.w3s.link",
         "myfritz.link",
         "mypep.link"
     ],
@@ -7246,6 +7250,7 @@
         "xn--yer-zna.no",
         "xn--ygarden-p1a.no",
         "xn--ystre-slidre-ujb.no",
+        "yorii.saitama.jp",
         "ákŋoluokta.no",
         "álaheadju.no",
         "áltá.no",
@@ -8023,6 +8028,7 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "appwrite.run",
         "build.run",
         "code.run",
         "database.run",
