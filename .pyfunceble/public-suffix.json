@@ -171,9 +171,11 @@
         "brave.app",
         "clerk.app",
         "clerkstage.app",
+        "convex.app",
         "csb.app",
         "deta.app",
         "developer.app",
+        "e2b.app",
         "easypanel.app",
         "edgecompute.app",
         "encr.app",
@@ -230,6 +232,7 @@
         "mutual.ar",
         "net.ar",
         "org.ar",
+        "seg.ar",
         "senasa.ar",
         "tur.ar"
     ],
@@ -960,6 +963,7 @@
         "cockpit.fr-par.scw.cloud",
         "cockpit.nl-ams.scw.cloud",
         "cockpit.pl-waw.scw.cloud",
+        "convex.cloud",
         "cs.keliweb.cloud",
         "de.trendhosting.cloud",
         "diadem.cloud",
@@ -1202,6 +1206,7 @@
         "atmeta.com",
         "auth-fips.us-east-1.amazoncognito.com",
         "auth-fips.us-east-2.amazoncognito.com",
+        "auth-fips.us-gov-east-1.amazoncognito.com",
         "auth-fips.us-gov-west-1.amazoncognito.com",
         "auth-fips.us-west-1.amazoncognito.com",
         "auth-fips.us-west-2.amazoncognito.com",
@@ -1216,6 +1221,7 @@
         "auth.ap-southeast-2.amazoncognito.com",
         "auth.ap-southeast-3.amazoncognito.com",
         "auth.ap-southeast-4.amazoncognito.com",
+        "auth.ap-southeast-5.amazoncognito.com",
         "auth.ca-central-1.amazoncognito.com",
         "auth.ca-west-1.amazoncognito.com",
         "auth.eu-central-1.amazoncognito.com",
@@ -2054,7 +2060,6 @@
         "space-to-rent.com",
         "sphinx.mythic-beasts.com",
         "stackhero-network.com",
-        "staging.devinapps.com",
         "static.observableusercontent.com",
         "stg-builder.code.com",
         "strapiapp.com",
@@ -7579,8 +7584,7 @@
         "framer.photos"
     ],
     "pictures": [
-        "1337.pictures",
-        "zone.id"
+        "1337.pictures"
     ],
     "pizza": [
         "ngrok.pizza"
@@ -8185,6 +8189,7 @@
         "cpanel.site",
         "cyon.site",
         "fastvps.site",
+        "figma.site",
         "heyflow.site",
         "jele.site",
         "jouwweb.site",
