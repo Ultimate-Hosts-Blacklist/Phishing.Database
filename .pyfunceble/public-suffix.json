@@ -187,6 +187,7 @@
         "id.replit.app",
         "loginline.app",
         "lovable.app",
+        "luyani.app",
         "medusajs.app",
         "messerli.app",
         "netfy.app",
@@ -925,9 +926,11 @@
         "gotdns.ch",
         "lima-city.ch",
         "linkyard-cloud.ch",
+        "lpg.objectstorage.ch",
         "myspreadshop.ch",
         "objects.lpg.cloudscale.ch",
         "objects.rma.cloudscale.ch",
+        "rma.objectstorage.ch",
         "square7.ch",
         "svc.firenet.ch"
     ],
@@ -2915,7 +2918,6 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "w.se",
         "web.id",
         "zone.id"
     ],
@@ -6196,6 +6198,7 @@
         "localto.net",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
+        "luyani.net",
         "mafelo.net",
         "map.fastly.net",
         "map.fastlylb.net",
@@ -8041,7 +8044,6 @@
         "code.run",
         "database.run",
         "development.run",
-        "express.val.run",
         "iran.liara.run",
         "liara.run",
         "migration.run",
@@ -8050,6 +8052,7 @@
         "repl.run",
         "servers.run",
         "stackit.run",
+        "val.run",
         "web.val.run",
         "wix.run"
     ],
@@ -8141,6 +8144,7 @@
         "t.se",
         "tm.se",
         "u.se",
+        "w.se",
         "x.se",
         "y.se",
         "z.se"
@@ -8510,6 +8514,7 @@
         "mymailer.com.tw",
         "net.tw",
         "org.tw",
+        "sekd1.beebyteapp.io",
         "url.tw"
     ],
     "tz": [
