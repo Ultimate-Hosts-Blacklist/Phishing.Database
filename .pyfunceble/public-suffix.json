@@ -263,6 +263,7 @@
         "123webseite.at",
         "12hp.at",
         "2ix.at",
+        "4.at",
         "4lima.at",
         "ac.at",
         "biz.at",
@@ -277,6 +278,7 @@
         "info.at",
         "kunden.ortsinfo.at",
         "lima-city.at",
+        "my.at",
         "myspreadshop.at",
         "or.at",
         "priv.at",
@@ -2343,6 +2345,7 @@
         "my-router.de",
         "my-vigor.de",
         "my-wan.de",
+        "my.de",
         "myhome-server.de",
         "myspreadshop.de",
         "pages-research.it.hs-heilbronn.de",
@@ -2624,6 +2627,7 @@
         "cloudns.eu",
         "diskstation.eu",
         "jelastic.dogado.eu",
+        "nxa.eu",
         "spdns.eu",
         "transurl.eu"
     ],
@@ -2822,6 +2826,9 @@
         "net.gu",
         "org.gu",
         "web.gu"
+    ],
+    "gw": [
+        "nx.gw"
     ],
     "gy": [
         "co.gy",
