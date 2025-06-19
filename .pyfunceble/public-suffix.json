@@ -2024,7 +2024,6 @@
         "s3.eu-south-1.amazonaws.com",
         "s3.eu-south-2.amazonaws.com",
         "s3.eu-west-1.amazonaws.com",
-        "s3.eu-west-2.amazonaws.com",
         "s3.eu-west-3.amazonaws.com",
         "s3.il-central-1.amazonaws.com",
         "s3.me-central-1.amazonaws.com",
@@ -4991,6 +4990,7 @@
         "ryokami.saitama.jp",
         "ryugasaki.ibaraki.jp",
         "ryuoh.shiga.jp",
+        "s3.eu-west-2.amazonaws.com",
         "s3.isk01.sakurastorage.jp",
         "s3.isk02.sakurastorage.jp",
         "sabae.fukui.jp",
@@ -5735,7 +5735,6 @@
     "kr": [
         "ac.kr",
         "ai.kr",
-        "bearalvahki.no",
         "busan.kr",
         "c01.kr",
         "chungbuk.kr",
